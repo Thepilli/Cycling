@@ -1,0 +1,25 @@
+Ahojte rodinove,
+
+když už teď dorazily pohledy, mohu poreferovat že jsem zpátky z dalšího cyklistického dobrodružství a musím říct, že tenhle výlet se povedl snad úplně ve všem. Tentokrát to bylo šest dní sólo ve francouzských Alpách a kdybych si měl celý týden dopředu naplánovat na papíře, asi by stejně nevyšel líp. Počasí mi přálo skoro ukázkově, nohy fungovaly a všechno vycházelo přesně podle plánu. Jediná větší komplikace byl jeden deštivý úsek, ale i ten se nakonec proměnil v zajímavou alternativu.
+
+První den začal nočním autobusem do Ženevy. Odtud jsem se hned vydal na jih směrem ke Grenoblu. Cesta vedla přes Chambéry, kde jsem narazil na první karavanu Tour de France. Bylo docela zvláštní stát najednou u silnice mezi stovkama fanoušku a sledovat atmosféru, kterou znám hlavně z televize. Protože jsem měl čas a cítil se dobře, přidal jsem ještě spontánní výjezd na Mont du Chat. Nebyl vůbec v plánu, ale byla by škoda ho vynechat, když už jsem jel kolem. A hned první den bylo jasné, že tenhle výlet bude stát za to.
+
+Druhý den už přišlo to hlavní. Z Grenoblu jsem zamířil na Alpe d'Huez. Těch legendárních 21 serpentin člověk zná z televize, ale na vlastní nohy je to úplně jiný zážitek. Každá zatáčka nese jméno vítěze etapy a člověk si připadá jako součást historie Tour. Odtud jsem pokračoval přes Croix de Fer a následně Glandon až do Valmeinieru, kde jsem měl na dvě noci ubytování. Byl to pořádný den v sedle, ale přesně takový, kvůli kterému se do Alp jezdí.
+
+Třetí den byl okruh z Valmeinieru. Nejprve jsem sjel k ikonickým serpentinám Lacets de Montvernier. Ty jsou sice krátké, ale vypadají naprosto neuvěřitelně – silnice poskládaná jako vystřižená z modelové železnice. Potom následoval Col de la Madeleine, jeden z největších velikánů francouzských Alp. Výhledy byly fantastické a počasí pořád naprosto ideální. Zpátky jsem se vracel přes Col du Mollard, který je mnohem klidnější, ale o to malebnější. Večer jsem se vracel do Valmeinieru s pocitem, že jsem právě absolvoval jeden z nejhezčích cyklistických okruhů, jaké jsem kdy jel.
+
+Čtvrtý den byl asi největším vrcholem celé výpravy. Vyrazil jsem přes Col du Télégraphe na Galibier právě v době, kdy se tam scházely desetitisíce fanoušků Tour de France. Silnice byla plná karavanů, vlajek, lidí z celé Evropy a všude panovala fantastická nálada. Přestože závodníci měli přijet až později, už samotná cesta mezi fanoušky byla zážitkem sama o sobě. Na vrcholu Galibieru byla atmosféra doslova elektrizující.
+
+Pak jsem zamířil znovu na Alpe d'Huez. Vyjet tuhle horu podruhé během jediné cesty už byla spíš otázka cti než rozumu, ale nemohl jsem si ji nechat ujít, zvlášť když se tam všechno připravovalo na Tour. Návrat do Grenoblu jsem si ještě zpestřil výjezdem přes Col de Chamrousse. Na konci dne jsem měl za sebou jednu z nejnáročnějších etap celého týdne, ale zároveň jednu z těch, na které se nezapomíná.
+
+Pátý den jsem měl v plánu projet oblast Vercors. Ráno jsem začal stoupáním směrem na Les Michallons, jenže tentokrát se počasí rozhodlo ukázat, že ani ono není stoprocentně na mé straně. Déšť postupně sílil natolik, že pokračovat dál nemělo smysl. Otočil jsem to a improvizoval. Nakonec z toho vznikl úplně jiný program – návštěva pevnosti La Bastille nad Grenoblem a potom ještě výjezd k pevnosti Saint-Eynard. Obě místa nabídla nádherné výhledy na celé údolí a člověk si znovu uvědomí, jak je Grenoble dokonale obklopený horami.
+
+Poslední den jsem se rozhodl dát Vercorsu druhou šanci. A tentokrát mi to počasí vynahradilo. Od rána bylo krásně a mohl jsem projet celý národní park tak, jak jsem si představoval. Silnice vytesané ve skalách, hluboké soutěsky, tunely a nádherné výhledy – úplně jiný charakter hor než klasické vysoké alpské průsmyky. Odtud jsem pokračoval až do Lyonu, kde jsem si před odjezdem autobusu ještě střihl závěrečný výjezd k bazilice Notre-Dame de Fourvière. Krásná tečka za celým výletem a zároveň poslední pořádný kopec, než jsem nasedl na autobus zpátky do Prahy.
+
+Když to shrnu, tenhle výlet se zařadil mezi moje nejlepší cyklistické dovolené vůbec. Vyšlo počasí, logistika fungovala bez jediného problému, všechna ubytování byla přesně tam, kde měla být, a podařilo se mi projet většinu průsmyků, které jsem měl dlouho na seznamu přání. Největší zážitek byla asi kombinace Galibieru s atmosférou Tour de France, ale těžko vybírat. Alpe d'Huez, Madeleine, Croix de Fer nebo Vercors – každý den měl něco, kvůli čemu si ho budu dlouho pamatovat.
+
+A zase se mi potvrdilo, že cestovat na kole je ten nejlepší způsob, jak hory opravdu poznat. Člověk si každé převýšení poctivě odšlape, nahoře si výhled zaslouží a při sjezdu má pocit, že je odměněný za všechno úsilí. Francouzské Alpy mě opět úplně dostaly a mám takové tušení, že jsem tam rozhodně nebyl naposledy.
+
+Sečteno a podtrženo: 1038 km, 18 tisíc výškových metrů, 3 píchlé duše, a jeden spokojený opálený cyklista
+
+Mějte se pěkně a tradičně posílám pár fotek https://photos.app.goo.gl/tZ5KmmfD8MphLUkx8
