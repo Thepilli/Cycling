@@ -166,8 +166,8 @@ Jede se po nich, jako by tam byly odjakživa. Přitom každá z nich je odpověd
 
 ## AUTHOR INPUT NEEDED
 
-1. **Andermatt, nebo Hospental?** Tvůj text mluví o návratu do Andermattu, ale soubor se jmenuje `Hospental.md`. Obce jsou tři kilometry od sebe a Hospental je přesně to místo, kde se dělí furkská a gotthardská silnice — takže jako základna dává smysl. Kde jsi spal?
-2. **Tremola — jak moc to bylo špatné?** Píšeš, že to „člověka trochu vytřese". Zajímá mě konkrétněji: jel jsi po ní nahoru, nebo dolů? Šlo o zábavu, nebo o boj s povrchem? A byla ta dlažba mokrá?
-3. **Furka a ledovec.** Bílé plachty na Rhônském ledovci jsou vidět z vyhlídky nad silnicí. Všiml sis jich? Pokud ano, patří to do textu jako tvoje pozorování, ne jako moje.
-4. **Ranní Gotthard.** „Skoro nikdo tam nebyl" je nejlepší věta té neděle a je zároveň jediná. Co bylo vidět a slyšet — mlha, chlad, otevřené či zavřené stánky?
-5. **Lucern.** Kudy jsi šel a co ses rozhodl vidět? Zatím mám jen „jezero, historické centrum a promenádu".
+1. **Andermatt, nebo Hospental?** Tvůj text mluví o návratu do Andermattu, ale soubor se jmenuje `Hospental.md`. Obce jsou tři kilometry od sebe a Hospental je přesně to místo, kde se dělí furkská a gotthardská silnice — takže jako základna dává smysl. Kde jsi spal? *{JP: You are correct. I was staying in Hospental. This also allowed me to visit the local Burgruine}*
+2. **Tremola — jak moc to bylo špatné?** Píšeš, že to „člověka trochu vytřese". Zajímá mě konkrétněji: jel jsi po ní nahoru, nebo dolů? Šlo o zábavu, nebo o boj s povrchem? A byla ta dlažba mokrá? *{JP:Do not dig too much into it. It was meant as an anecdote}*
+3. **Furka a ledovec.** Bílé plachty na Rhônském ledovci jsou vidět z vyhlídky nad silnicí. Všiml sis jich? Pokud ano, patří to do textu jako tvoje pozorování, ne jako moje. *{JP:That is true, I was them and have a picture}*
+4. **Ranní Gotthard.** „Skoro nikdo tam nebyl" je nejlepší věta té neděle a je zároveň jediná. Co bylo vidět a slyšet — mlha, chlad, otevřené či zavřené stánky? *{JP:I could see the entire valley and how the road rolls over it. THe air was crispy and the sky was slowly crearing to blue}*
+5. **Lucern.** Kudy jsi šel a co ses rozhodl vidět? Zatím mám jen „jezero, historické centrum a promenádu". *{JP:I didnt see much more. THere is a famous wooden bridge. It was an adhoc decision to go there}*

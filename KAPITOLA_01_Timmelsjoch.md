@@ -125,8 +125,8 @@ Každý takový výjezd dodá trochu sebevědomí do dalších dobrodružství.
 
 ## AUTHOR INPUT NEEDED
 
-1. **Ten sjezd s únikovými pruhy — Zirler Berg?** Trasa i popis sedí přesně. **Ale:** na Zirler Bergu je cyklistům jízda po sjezdové straně zakázaná právě kvůli sklonu a existuje značená objížďka lesní cestou. Takže potřebuju vědět, co se stalo — jel jsi po silnici, jel jsi tou objížďkou a únikové pruhy jsi viděl z ní, nebo to byla úplně jiná silnice? Nechci to napsat špatně a nechci ti do knihy dát dopravní přestupek, o kterém nevíš.
-2. **Kudy z Mnichova?** Přes Garmisch, Mittenwald, Scharnitz a Seefeld, nebo jinudy? Rozhoduje to o bodu 1.
-3. **Kolik toho bylo?** Sobotní etapa (Matrei → Jaufen → Timmelsjoch → zpět) vychází řádově na 150 km a přes 3 000 metrů. Zmiňuješ, že jsi posílal „sobotní profil" — existuje ten obrázek ještě?
-4. **Ovce.** Jestli jsi náhodou v horách narazil na stádo nebo na pastevce, patří to do kapitoly — je to nejlepší doložený detail celého průsmyku a jediný, který spojuje dnešek se čtrnáctým stoletím.
-5. **Mnichov v neděli.** „Historické budovy" je jediné, co o té procházce víme. Stačí dvě věty: kam jsi šel a co tě zaujalo.
+1. **Ten sjezd s únikovými pruhy — Zirler Berg?** Trasa i popis sedí přesně. **Ale:** na Zirler Bergu je cyklistům jízda po sjezdové straně zakázaná právě kvůli sklonu a existuje značená objížďka lesní cestou. Takže potřebuju vědět, co se stalo — jel jsi po silnici, jel jsi tou objížďkou a únikové pruhy jsi viděl z ní, nebo to byla úplně jiná silnice? Nechci to napsat špatně a nechci ti do knihy dát dopravní přestupek, o kterém nevíš. *{JP: yes I used the Zirler Berg. There was no disclosure about cyclist not being allowed there}*
+2. **Kudy z Mnichova?** Přes Garmisch, Mittenwald, Scharnitz a Seefeld, nebo jinudy? Rozhoduje to o bodu 1 *{JP: Yes, I went through  Scharnitz a Seefeld}*
+3. **Kolik toho bylo?** Sobotní etapa (Matrei → Jaufen → Timmelsjoch → zpět) vychází řádově na 150 km a přes 3 000 metrů. Zmiňuješ, že jsi posílal „sobotní profil" — existuje ten obrázek ještě *{JP: In total it was 200km and 5k ascent. The picture is still available}*
+4. **Ovce.** Jestli jsi náhodou v horách narazil na stádo nebo na pastevce, patří to do kapitoly — je to nejlepší doložený detail celého průsmyku a jediný, který spojuje dnešek se čtrnáctým stoletím.*{JP:Yes, there were sheeps along the way, even on the road from time to time}*
+5. **Mnichov v neděli.** „Historické budovy" je jediné, co o té procházce víme. Stačí dvě věty: kam jsi šel a co tě zaujalo.*{JP: I went to see the Rathaus and Frauenkirche}*

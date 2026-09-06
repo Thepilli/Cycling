@@ -103,8 +103,8 @@ Francouzské Alpy mě opět úplně dostaly a mám takové tušení, že jsem ta
 
 ## AUTHOR INPUT NEEDED
 
-1. **Les Michallons — kam to vlastně vedlo?** Nedokázal jsem to umístit. Stoupal jsi směrem do Vercorsu, nebo na druhou stranu? Rozhoduje to o tom, jestli byl pátý den pokusem o tutéž trasu, kterou jsi pak v sobotu projel, nebo o něco jiného.
-2. **Kudy Vercorsem?** Šestý den je nejmalebnější část celé sezóny a mám k němu jednu větu. Stačí mi jména míst nebo silnic — podle nich doplním, co ta místa jsou.
-3. **Odboj 1944.** Chceš, aby se o něm v kapitole psalo? Je to nejvýznamnější historická vrstva Vercorsu a sedí k tématu knihy o krajině a přístupnosti — ale je to i těžké téma a kapitola se bez něj obejde. Rozhodni ty; podle toho buď odstavec doplním po rešerši, nebo ho škrtnu.
-4. **Ten déšť.** Kde přesně jsi to otočil, a jak dlouho jsi předtím jel? Je to jediný okamžik celé sezóny, kdy ses musel rozhodnout, že něco nepojedeš.
-5. **Rozdělení kapitoly.** Francouzskou výpravu jsem rozdělil na dvě kapitoly (Galibier / Vercors). Sedí to, nebo ji chceš mít jako jeden celek?
+1. **Les Michallons — kam to vlastně vedlo?** Nedokázal jsem to umístit. Stoupal jsi směrem do Vercorsu, nebo na druhou stranu? Rozhoduje to o tom, jestli byl pátý den pokusem o tutéž trasu, kterou jsi pak v sobotu projel, nebo o něco jiného. *{JP:correct, I did the same route up}*
+2. **Kudy Vercorsem?** Šestý den je nejmalebnější část celé sezóny a mám k němu jednu větu. Stačí mi jména míst nebo silnic — podle nich doplním, co ta místa jsou. *{JP:I went through Gorges de la Bourne}*
+3. **Odboj 1944.** Chceš, aby se o něm v kapitole psalo? Je to nejvýznamnější historická vrstva Vercorsu a sedí k tématu knihy o krajině a přístupnosti — ale je to i těžké téma a kapitola se bez něj obejde. Rozhodni ty; podle toho buď odstavec doplním po rešerši, nebo ho škrtnu.*{JP:no need to mention it}*
+4. **Ten déšť.** Kde přesně jsi to otočil, a jak dlouho jsi předtím jel? Je to jediný okamžik celé sezóny, kdy ses musel rozhodnout, že něco nepojedeš.*{JP:I made it all the way through the initial 600m climb up to Les Michalons.  }*
+5. **Rozdělení kapitoly.** Francouzskou výpravu jsem rozdělil na dvě kapitoly (Galibier / Vercors). Sedí to, nebo ji chceš mít jako jeden celek? *{JP:I think is should be a singel chapter }*

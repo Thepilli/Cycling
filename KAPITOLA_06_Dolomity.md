@@ -159,8 +159,8 @@ Nejsilnější dojem ale nakonec nezůstal z Galibieru ani ze Stelvia. Zůstal z
 
 ## AUTHOR INPUT NEEDED
 
-1. **Jaký svátek to byl a kdy?** Ferragosto 15. srpna 2026 vychází na sobotu, což by dalo výpravu na pátek 14. až neděli 16. srpna a sedělo by to na tvůj obvyklý pátek–nedělní vzorec. Potvrzuješ?
-2. **To sucho — co konkrétně jsi viděl?** Tohle je nejsilnější pozorování celé knihy a zároveň jediné místo, kde tvůj text mluví o něčem větším než o cestě. Které řeky, které jezero, jak to vypadalo? Čím konkrétnější, tím líp — tenhle odstavec ponese závěr celé knihy.
-3. **Cortina.** Bylo na městě půl roku po olympiádě něco vidět? Pokud ne, škrtnu to.
-4. **Válečná historie.** Přes Dolomity vedla v letech 1915–1917 fronta a jsou jí tam plné stěny — tunely, kaverny, pomníky. Narazil jsi na to cestou? A chceš, aby se o tom v kapitole psalo? Je to velké téma a buď se udělá pořádně, nebo vůbec.
-5. **Závěr knihy.** Podle chronologie je tahle kapitola poslední. Napsal jsem ji tak, aby kniha končila tím suchem, ne výkonem. Sedí ti to jako konec, nebo chceš skončit jinde?
+1. **Jaký svátek to byl a kdy?** Ferragosto 15. srpna 2026 vychází na sobotu, což by dalo výpravu na pátek 14. až neděli 16. srpna a sedělo by to na tvůj obvyklý pátek–nedělní vzorec. Potvrzuješ? *{JP:Yes, that is correct}*
+2. **To sucho — co konkrétně jsi viděl?** Tohle je nejsilnější pozorování celé knihy a zároveň jediné místo, kde tvůj text mluví o něčem větším než o cestě. Které řeky, které jezero, jak to vypadalo? Čím konkrétnější, tím líp — tenhle odstavec ponese závěr celé knihy. *{JP:Lago di Barcis looked half empty and so did Torrente Cellina along which I rode there}*
+3. **Cortina.** Bylo na městě půl roku po olympiádě něco vidět? Pokud ne, škrtnu to. *{JP:I havent really noticed anything}*
+4. **Válečná historie.** Přes Dolomity vedla v letech 1915–1917 fronta a jsou jí tam plné stěny — tunely, kaverny, pomníky. Narazil jsi na to cestou? A chceš, aby se o tom v kapitole psalo? Je to velké téma a buď se udělá pořádně, nebo vůbec. *{JP:I wouldnt say I explicitly noticed any}*
+5. **Závěr knihy.** Podle chronologie je tahle kapitola poslední. Napsal jsem ji tak, aby kniha končila tím suchem, ne výkonem. Sedí ti to jako konec, nebo chceš skončit jinde? *{JP:No, there are going to at least 2 more chapters which I will share later}* 

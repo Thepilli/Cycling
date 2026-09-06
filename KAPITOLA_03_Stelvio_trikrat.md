@@ -195,6 +195,6 @@ Nenapadá mě jediná věc, kterou bych udělal jinak.
 
 ## Zbývá dořešit
 
-1. **Skutečná čísla dnů 1, 2 a 3.** Druhý den je po opravě zvlášť zajímavý: Albula, Bernina, Forcola, Foscagno a přejezd ze St. Moritzu do Bormia. Pokud existují GPX nebo záznamy z hodinek, změní to, jak se dá o tom dni psát — teď o něm mluvím jako o velkém, ale bez čísel.
-2. **Jak jsi jel Julier.** Ze Silvaplany nahoru a stejnou cestou zpět, nebo přes vrchol a okolo? V textu je to zatím napsané tak, aby platilo obojí.
+1. **Skutečná čísla dnů 1, 2 a 3.** Druhý den je po opravě zvlášť zajímavý: Albula, Bernina, Forcola, Foscagno a přejezd ze St. Moritzu do Bormia. Pokud existují GPX nebo záznamy z hodinek, změní to, jak se dá o tom dni psát — teď o něm mluvím jako o velkém, ale bez čísel.*{JP:that is fine}*
+2. **Jak jsi jel Julier.** Ze Silvaplany nahoru a stejnou cestou zpět, nebo přes vrchol a okolo? V textu je to zatím napsané tak, aby platilo obojí. *{JP:Silvaplany nahoru a stejnou cestou zpět}*
 3. **Fotografie.** Kapitola je připravená na obrazovou vrstvu; teď jsem se jezerům vyhýbal naslepo. S albumem před sebou půjde vybrat, které motivy text unese.

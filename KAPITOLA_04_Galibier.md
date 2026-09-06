@@ -128,16 +128,16 @@ Na konci dne jsem měl za sebou jednu z nejnáročnějších etap celého týdne
 
 ⚠️ **Externí faktografie — NEOVĚŘENO, nutná kontrola před tiskem.** Použil jsem jen to, čím jsem si přiměřeně jistý, ale nic z toho neprošlo rešerší:
 
-- Karavana Tour de France projíždí trasu zhruba dvě hodiny před závodníky a rozhazuje reklamní předměty *(ověřit časový odstup a rozsah)*
-- Lac du Bourget jako největší přirozené jezero Francie *(ověřit — bývá uváděno „největší přirozené jezero ledovcového původu")*
+- Karavana Tour de France projíždí trasu zhruba dvě hodiny před závodníky a rozhazuje reklamní předměty *(ověřit časový odstup a rozsah)* *{JP:That is right I met the caravane a couple of times }*
+- Lac du Bourget jako největší přirozené jezero Francie *(ověřit — bývá uváděno „největší přirozené jezero ledovcového původu")* *{JP:no need. It is correct}*
 - Alpe d'Huez: 21 očíslovaných serpentin s cedulemi *(počet ověřit; číslování odshora dolů ověřit)*
-- Croix de Fer a Glandon: vrcholy ~2,5 km od sebe se společnou křižovatkou *(ověřit vzdálenost)*
-- Lacets de Montvernier: 17 serpentin ve třech kilometrech, postaveny kvůli přístupu do vesnice Montvernier, jsou úvodní částí silnice na Col du Chaussy, který sjíždí do Maurienne u La Chambre *(ověřit počet zatáček, rok stavby a motivaci)*
-- Madeleine: cedule uvádí 2 000 m proti měřeným ~1 993 m *(ověřit)*
-- Col du Télégraphe: jméno po stanici optického (Chappeova) telegrafu; průsmyk je fakticky první částí výjezdu na Galibier oddělenou sjezdem do Valloire *(ověřit)*
-- Galibier: bezlesý štěrkový svah nad Valloire *(ověřit charakter a případně rok stavby silnice a existenci vrcholového tunelu)*
+- Croix de Fer a Glandon: vrcholy ~2,5 km od sebe se společnou křižovatkou *(ověřit vzdálenost)* *{JP:no need. It is correct}*
+- Lacets de Montvernier: 17 serpentin ve třech kilometrech, postaveny kvůli přístupu do vesnice Montvernier, jsou úvodní částí silnice na Col du Chaussy, který sjíždí do Maurienne u La Chambre *(ověřit počet zatáček, rok stavby a motivaci)* *{JP:no need. It is correct}*
+- Madeleine: cedule uvádí 2 000 m proti měřeným ~1 993 m *(ověřit)**{JP:no need. It is correct}*
+- Col du Télégraphe: jméno po stanici optického (Chappeova) telegrafu; průsmyk je fakticky první částí výjezdu na Galibier oddělenou sjezdem do Valloire *(ověřit)**{JP:no need. It is correct}*
+- Galibier: bezlesý štěrkový svah nad Valloire *(ověřit charakter a případně rok stavby silnice a existenci vrcholového tunelu)* *{JP:there was no tunnel}*
 - Chamrousse: dějiště alpských disciplín zimní olympiády 1968 v Grenoblu *(ověřit)*
-- Col Luitel: leží na silnici z Grenoblu přes Uriage na Chamrousse *(ověřit; existuje tam rašeliništní přírodní rezervace, ale její status jsem nepoužil, protože jsem si jím nebyl jistý)*
+- Col Luitel: leží na silnici z Grenoblu přes Uriage na Chamrousse *(ověřit; existuje tam rašeliništní přírodní rezervace, ale její status jsem nepoužil, protože jsem si jím nebyl jistý)* *{JP:no need.}*
 
 **Vědomě vynecháno:** jakákoli závodní trivia — jména jezdců, výsledky, historie etap, pomníky spojené se závodem. Jediná výjimka je autorovo vlastní pozorování, že serpentiny nesou jména vítězů, což je to, co na místě viděl.
 
@@ -145,8 +145,8 @@ Na konci dne jsem měl za sebou jednu z nejnáročnějších etap celého týdne
 
 ## AUTHOR INPUT NEEDED
 
-1. **Kdy přesně to bylo?** Stačí týden v červenci. Umožní to dohledat, která etapa jela přes Chambéry a kdy se čekalo na Galibieru — a tím i datovat celou výpravu na den.
-2. **Col de Sarenne — druhý, nebo čtvrtý den?** Je v tvém datovém souboru, ale ne v e-mailu. Alpe d'Huez jsi jel dvakrát, takže Sarenne padá na jeden z těch dnů. Zařadil jsem ho na druhý; čtvrtý je stejně pravděpodobný.
-3. **Galibier a ten dav.** Tohle je vrchol kapitoly a mám k němu jen dvě věty. Co si z toho pamatuješ nejvíc — kdy jsi poznal, že to nebude normální výjezd, jak se k tobě lidé chovali, jak dlouho to trvalo se tím davem prodrat?
-4. **Druhé Alpe d'Huez.** Bylo to jinak než poprvé, když už se tam všechno chystalo na závod? Plné zatáčky, jiná atmosféra, hůř se to jelo?
-5. **Ubytování a logistika.** Píšeš, že „všechna ubytování byla přesně tam, kde měla být". Kolik nocí bylo v Grenoblu a kde? Je to jediné místo, kde kapitola tápe v základní kostře.
+1. **Kdy přesně to bylo?** Stačí týden v červenci. Umožní to dohledat, která etapa jela přes Chambéry a kdy se čekalo na Galibieru — a tím i datovat celou výpravu na den. *{JP:no need. I will provide dates later}*
+2. **Col de Sarenne — druhý, nebo čtvrtý den?** Je v tvém datovém souboru, ale ne v e-mailu. Alpe d'Huez jsi jel dvakrát, takže Sarenne padá na jeden z těch dnů. Zařadil jsem ho na druhý; čtvrtý je stejně pravděpodobný. *{JP:It was the 4th day, on the way back from Galibier, just a couple of hours before the peloton got there}*
+3. **Galibier a ten dav.** Tohle je vrchol kapitoly a mám k němu jen dvě věty. Co si z toho pamatuješ nejvíc — kdy jsi poznal, že to nebude normální výjezd, jak se k tobě lidé chovali, jak dlouho to trvalo se tím davem prodrat? *{JP:Pretty much from teh beginning - climb to Col du Télégraphe, as there was a continous stream of other cyclist. But once I saw the fan camps, and campers along the way I knew for sure it will be special. People were super supportive, cheering and waving}*
+4. **Druhé Alpe d'Huez.** Bylo to jinak než poprvé, když už se tam všechno chystalo na závod? Plné zatáčky, jiná atmosféra, hůř se to jelo? *{JP:There was definitelly more people, but even the previous visit was very crowded, as the fans were already there, and ready}*
+5. **Ubytování a logistika.** Píšeš, že „všechna ubytování byla přesně tam, kde měla být". Kolik nocí bylo v Grenoblu a kde? Je to jediné místo, kde kapitola tápe v základní kostře. *{JP:I spend 3 nights in Grenoble and 2 nights in Valmeinier}*
