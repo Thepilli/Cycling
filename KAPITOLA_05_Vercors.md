@@ -50,8 +50,6 @@ A ty cesty jsou to, kvůli čemu se do Vercorsu jezdí. Silnice tam nevede po dn
 
 ‹Na vysokém průsmyku člověk vidí, kam jede: silnice je nakreslená po svahu nad ním a celý výjezd si dopředu prohlédne. Ve Vercorsu není vidět nic. Zatáčka, stěna, tunel, a za tunelem se otevře propast, o které člověk minutu předtím nevěděl. Je to jediné místo celé sezóny, kde mě silnice opakovaně překvapila.›
 
-*(Editorská poznámka: autor v e-mailu píše „národní park". Vercors je regionální přírodní park — Parc naturel régional du Vercors. V textu jsem to opravil na „park".)*
-
 Vercors ale není jen geologie. Je to místo, kde se v roce 1944 stalo něco, co má na plošině dodnes svoje pomníky: náhorní rovina obklopená stěnami a dostupná jen několika silnicemi vypadala jako přirozená pevnost, a v tom smyslu ji taky použili. Nedopadlo to dobře. Ta samá geografie, která místo chránila, ho zároveň uzavřela.
 
 ‹Jede se tudy jako krajinou. Až cedule u silnice člověku připomenou, že tahle konkrétní nedostupnost jednou znamenala něco docela jiného než výhled.›

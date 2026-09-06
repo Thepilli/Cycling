@@ -57,8 +57,6 @@ Těch legendárních 21 serpentin člověk zná z televize, ale na vlastní nohy
 
 ‹Ty cedule mají jednu vlastnost, kterou fotky nezachytí: jsou očíslované odshora dolů, takže se od jedenadvacítky odpočítává. A protože je hora rozdělená na jednadvacet dílů, přestane po chvíli existovat stoupání jako celek. Zbývají jen zatáčky.›
 
-*(Editorská poznámka: konvence knihy je nepoužívat závodní trivia. Jména vítězů na cedulích jsou ale autorovo vlastní pozorování a součást toho, co na místě viděl, takže zůstávají — ale bez jediného konkrétního jména.)*
-
 Nahoře se z hory stane lyžařské středisko, a to je na Alpe d'Huez ta druhá, méně fotografovaná polovina: budovy z šedesátých a sedmdesátých let, parkoviště, prázdné vleky.
 
 Odtud jsem pokračoval přes **Col de Sarenne** a dál na **Croix de Fer** a **Glandon** až do Valmeinieru, kde jsem měl na dvě noci ubytování.

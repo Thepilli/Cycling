@@ -44,7 +44,7 @@ Zoncolan přitom není v Dolomitech. Leží v **Karnských Alpách**, o kus výc
 
 Za Zoncolanem už se začala krajina postupně měnit a silnice se nořila stále hlouběji do hor. Přes **Sella di Razzo** a **Sella Ciampigotto** jsem pokračoval směrem na Auronzo.
 
-*(Sella di Razzo není v autorově e-mailu, jen v datovém souboru. Leží na téže silnici jako Ciampigotto, pár kilometrů od něj — první den tedy měl tři sedla, ne dvě.)*
+*(Sella di Razzo není v autorově e-mailu, jen v datovém souboru. Leží na téže silnici jako Ciampigotto, pár kilometrů od něj — první den tedy měl tři sedla, ne dvě.)* *{JP: correct, please implement it}*
 
 A právě během tohoto dne mě začalo dostávat, jak jsou Dolomity úplně jiné než klasické Alpy. Ty obrovské, holé a rozeklané skalní masivy působí neuvěřitelně surově. Místy jsem měl pocit, že projíždím nějakou úplně pravěkou krajinou — silnice je malá a člověk kolem sebe vidí jen obrovské skalní stěny.
 
@@ -66,7 +66,7 @@ Už od rána bylo všude obrovské množství lidí — hlavně turistů a horol
 
 Z Auronza jsem vyrazil směrem na Cortinu d'Ampezzo. Cesta tam vede přes **Passo Tre Croci**, takže den nezačal rovinou, ale rovnou průsmykem.
 
-*(Tre Croci taky není v e-mailu, jen v datovém souboru. Leží přesně mezi Auronzem a Cortinou.)*
+*(Tre Croci taky není v e-mailu, jen v datovém souboru. Leží přesně mezi Auronzem a Cortinou.)* *{JP: correct, please implement it}*
 
 Cortina je v srpnu 2026 zvláštní místo. Půl roku předtím tam skončily zimní olympijské hry a město to má pořád na sobě — dostavěná infrastruktura, nová značení, prostor, který byl postavený pro mnohem víc lidí, než jich tam v létě je.
 

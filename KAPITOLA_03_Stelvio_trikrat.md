@@ -198,3 +198,6 @@ Nenapadá mě jediná věc, kterou bych udělal jinak.
 1. **Skutečná čísla dnů 1, 2 a 3.** Druhý den je po opravě zvlášť zajímavý: Albula, Bernina, Forcola, Foscagno a přejezd ze St. Moritzu do Bormia. Pokud existují GPX nebo záznamy z hodinek, změní to, jak se dá o tom dni psát — teď o něm mluvím jako o velkém, ale bez čísel.*{JP:that is fine}*
 2. **Jak jsi jel Julier.** Ze Silvaplany nahoru a stejnou cestou zpět, nebo přes vrchol a okolo? V textu je to zatím napsané tak, aby platilo obojí. *{JP:Silvaplany nahoru a stejnou cestou zpět}*
 3. **Fotografie.** Kapitola je připravená na obrazovou vrstvu; teď jsem se jezerům vyhýbal naslepo. S albumem před sebou půjde vybrat, které motivy text unese.
+
+*{JP: On the way from Gavia to Bormio I did a quick detour to Rifugio Forni - which surprised me by its steepness, and was quite challenging after the whole day}*
+*{JP: The last Stelvio ride was rather necessary, as it was on the way "home". I climbed Mendel after getting to Bolzano, while having spare couple of hours. It has allowed me to see the Dolomites on the horizon for the first time.}*
