@@ -1,10 +1,11 @@
-# REGISTR PRŮSMYKŮ — v2.0
+# REGISTR PRŮSMYKŮ — v6.0
 
-Zdroj dat: `alpine_passes_2026.csv` (44 záznamů, dodal autor)
+Zdroj dat: `alpine_passes_2026.csv` (44 záznamů, dodal autor) — **pokrývá jen pět ze sedmi výprav.** Průsmyky výprav T-06 (Bavorsko) a T-07 (Tyrolsko) v CSV nejsou; jejich výšky pocházejí ze `Bavaria.md` nebo z ověřených externích zdrojů (viz níže).
 Postavení ve zdrojové hierarchii: **AUTOR** — výšky a názvy z tohoto souboru mají přednost před externími zdroji.
 Rozsah dle autora: **hlavní průsmyky, ne vyčerpávající seznam** → menší cols mohou chybět. Seznam je tedy spodní hranice, ne úplná trasa.
 Pokyn autora: osm průsmyků, které nejsou v e-mailech, **nebylo vynecháno záměrně** — do původních poznámek se nevešly. Do dalších textů je zapracovat.
-Rok dle autora: **všech pět výprav 2026.**
+Rok dle autora: **všech pět výprav 2026.** T-03 datováno přesně: **14.–16. 8. 2026** (potvrzeno autorem).
+Mimo CSV, doplněno autorem: **Rifugio Forni** — odbočka na sjezdu z Gavie do Bormia (T-04, den 4).
 
 Legenda sloupce „V textu":
 
@@ -20,13 +21,19 @@ Legenda sloupce „Den": číslo dne je `INFERENCE` z geografie, pokud není ozn
 | Trip | Průsmyků | Nejvyšší bod | Nejnižší | Nad 2 000 m |
 |---|---|---|---|---|
 | T-01 Timmelsjoch | 2 | **Passo del Rombo / Timmelsjoch 2 474 m** | Jaufenpass 2 094 | 2 |
-| T-02 Andermatt | 6 | **Furkapass 2 429 m** | Oberalppass 2 044 | 6 |
+| T-02 Hospental | 6 | **Furkapass 2 429 m** | Oberalppass 2 044 | 6 |
 | T-03 Dolomity | 10 | **Passo Sella 2 244 m** | Passo Duran 1 601 | 4 |
 | T-04 Bormio | 12 | **Passo dello Stelvio 2 757 m** | Passo della Mendola 1 363 | 8 |
 | T-05 Francie | 14 | **Col du Galibier 2 642 m** | Lacets de Montvernier 782 | 2 |
-| **Celkem** | **44** | **Stelvio 2 757 m** | Montvernier 782 | 22 |
+| T-06 Bavorsko* | 2 | Fernpass 1 216 | Kesselberg 858 | 0 |
+| T-07 Tyrolsko* | 2 | **Ötztaler Gletscherstraße ~2 830 m** | Hahntennjoch 1 894 | 1 |
+| **Celkem** | **48** | **Ötztaler Gletscherstraße ~2 830 m** | Montvernier 782 | 23 |
 
-**Nad 2 500 m (čtyři):** Stelvio 2 757, Galibier 2 642, Gavia 2 621, Umbrail 2 501 — tři ze čtyř na jedné výpravě (T-04).
+\* T-06 a T-07 nejsou v `alpine_passes_2026.csv`.
+
+**Nad 2 500 m (pět):** **Ötztaler Gletscherstraße ~2 830**, Stelvio 2 757, Galibier 2 642, Gavia 2 621, Umbrail 2 501. Tři z nich na jedné výpravě (T-04).
+
+**Nejvyšší průsmyk** sezóny je Stelvio (2 757 m); **nejvyšší bod** sezóny je ledovcová silnice v Ötztalu (~2 830 m), která ale průsmyk není.
 
 ---
 
@@ -41,7 +48,7 @@ Oba na jednom dni, tam i zpět stejnou cestou (AUTOR). Brenner (~1 370 m), kter�
 
 ---
 
-## T-02 — Švýcarsko / Andermatt (6 průsmyků)
+## T-02 — Švýcarsko / Hospental (6 průsmyků)
 
 | ID | Průsmyk | Také | m | Země | Den | V textu |
 |---|---|---|---|---|---|---|
@@ -95,7 +102,7 @@ Autor v e-mailu píše „za tři dny jsem projel šest alpských průsmyků", a
 | ID | Průsmyk | Také | m | Země | Den | V textu |
 |---|---|---|---|---|---|---|
 | 1 | **Malojapass** | Pass da Maloja; Passo del Maloja | 1 815 | CH (GR) | D1 | **NOVÝ** |
-| 2 | Julierpass | Pass dal Güglia | 2 284 | CH (GR) | D1 | ANO |
+| 2 | Julierpass | Pass dal Güglia | 2 284 | CH (GR) | D1 (AUTOR, tam a zpět ze Silvaplany) | ANO |
 | 3 | Albulapass | Pass d'Alvra | 2 315 | CH (GR) | **D2** | ANO |
 | 5 | Berninapass | Pass dal Bernina; Passo del Bernina | 2 328 | CH (GR) | D2 | ANO |
 | 6 | **Forcola di Livigno** | Livigno Pass; Fuorcla da Livign | 2 315 | IT/CH | D2 | **NOVÝ** \*|
@@ -120,11 +127,11 @@ Chybějící spojnice Lugano → Graubünden je **Malojapass**. Maloja je jedin�
 
 Dřívější verze registru přiřazovala Albulu k prvnímu dni. To bylo odvození z geografie a bylo chybné.
 
-Zbývá jen drobnost: jak přesně byl Julier vyjet (ze Silvaplany nahoru a stejnou cestou zpět, nebo přes vrchol a okolo). V kapitole je to formulováno tak, aby platilo obojí.
+✅ Autor potvrdil: **Julier vyjet ze Silvaplany nahoru a stejnou cestou zpět.**
 
-Zbývá potvrdit pořadí Julier/Albula (obojí je jezditelné, viz `01_TRIP_DATABASE.md`).
+✅ Členění dnů 1 a 2 i způsob výjezdu na Julier potvrdil autor (viz níže).
 
-**Poznámka k náročnosti.** Takto zrekonstruovaný první den vychází řádově na 200 km a přes 4 000 m převýšení — na úvodní den výpravy hodně, i když autor píše, že do St. Moritzu dorazil „večer". Podobná otázka je u třetího dne, kde přejezd mezi západní a východní rampou Stelvia přes Umbrail vyžaduje ještě spojku Santa Maria – Müstair – Mals – Prato. Obojí je v rámci možností a e-mail obojí potvrzuje, ale u obou dnů má smysl mít od autora skutečná čísla, než se do kapitoly napíše, jak dlouhý ten den byl. **AUTHOR INPUT** (viz `00_DISCOVERY_REPORT.md` §11, položka „Náročnost T-04 dnů 1 a 3").
+**Poznámka k náročnosti.** Takto zrekonstruovaný první den vychází řádově na 200 km a přes 4 000 m převýšení — na úvodní den výpravy hodně, i když autor píše, že do St. Moritzu dorazil „večer". Podobná otázka je u třetího dne, kde přejezd mezi západní a východní rampou Stelvia přes Umbrail vyžaduje ještě spojku Santa Maria – Müstair – Mals – Prato. Obojí je v rámci možností a e-mail obojí potvrzuje, ale u obou dnů by byla užitečná skutečná čísla. Autor je zatím řešit nechce — rozhodne se, až uvidí, jestli do knihy dá GPX.
 
 ### ✅ Tímto se doplňuje trasa 2. dne
 
@@ -134,13 +141,13 @@ Nové průsmyky Forcola di Livigno a Foscagno doplňují úsek St. Moritz → Bo
 
 **Forcola di Livigno je hraniční přechod mezi Švýcarskem a Itálií.** E-mail říká: „Krátce po přejezdu do Itálie mě zastihla menší přeháňka." Je-li Forcola tím přejezdem, spadl déšť na sjezdu k Livignu.
 
-**Zůstává to INFERENCE, ne fakt.** CSV neobsahuje ani dny, ani trasy — přiřazení Forcoly k druhému dni je odvozeno z geografie a lokalizace dešťě je odvození nad odvozením. Je to velmi pravděpodobné, ale do textu kapitoly to nesmí vstoupit jako popsaná scéna, dokud to autor nepotvrdí. Viz otázka 4 v `00_DISCOVERY_REPORT.md` §12.
+✅ **Potvrzeno autorem:** přejezdem do Itálie byla Forcola di Livigno a déšť spadl na sjezdu z ní. V kapitole je to normální text.
 
 Druhý den je v e-mailu popsaný v podstatě jedním průsmykem (Bernina) a přejezdem přes Livigno. Ve skutečnosti to byly **čtyři průsmyky nad 2 290 m** — Albula 2 315, Bernina 2 328, Forcola di Livigno 2 315, Foscagno 2 291 — a to i při tom, že šlo o přesun ze St. Moritzu do Bormia. Nejnabitější den celé výpravy vedle třetího. (Passo d'Eira mezi Livignem a Foscagnem by byl čtvrtý, ale v CSV není; autor jej mezi hlavní průsmyky nezařadil.)
 
 ### Nejvyšší bod celé knihy
 
-**Passo dello Stelvio, 2 757 m** — potvrzuje autorovo „ve výšce přes 2 700 metrů". Stelvio vyjeté třikrát (D3 obě strany, D5 znovu) je nejvyšší bod celého archivu a jediné místo, kde se autorovo vlastní číslo dá ověřit proti jeho vlastnímu datovému souboru. Souhlasí.
+**Passo dello Stelvio, 2 757 m** — potvrzuje autorovo „ve výšce přes 2 700 metrů". Stelvio vyjeté třikrát (D3 obě strany, D5 znovu) je nejvyšší průsmyk sezóny a jediné místo, kde se autorovo vlastní číslo dá ověřit proti jeho vlastnímu datovému souboru. Souhlasí.
 
 ---
 
@@ -150,7 +157,7 @@ Druhý den je v e-mailu popsaný v podstatě jedním průsmykem (Bernina) a pře
 |---|---|---|---|---|---|---|
 | 21 | Belvédère du Mont du Chat | Relais du Mont du Chat | 1 486 | FR (Savoie) | D1 | ANO |
 | 22 | L'Alpe d'Huez | — | 1 860 | FR (Isère) | D2, D4 | ANO |
-| 31 | **Col de Sarenne** | — | 1 999 | FR (Isère) | D2 nebo D4 (?) | **NOVÝ** |
+| 31 | **Col de Sarenne** | — | 1 999 | FR (Isère) | **D4** (AUTOR) | **NOVÝ** |
 | 24 | Col de la Croix de Fer | — | 2 067 | FR (Savoie) | D2 | ANO |
 | 23 | Col du Glandon | — | 1 924 | FR (Savoie) | D2 | ANO |
 | 25 | Lacets de Montvernier | — | 782 | FR (Savoie) | D3 | ANO |
@@ -165,18 +172,66 @@ Druhý den je v e-mailu popsaný v podstatě jedním průsmykem (Bernina) a pře
 
 **Nové zjištění — Col du Chaussy.** Lacets de Montvernier nejsou samostatné stoupání; jsou úvodní částí silnice na **Col du Chaussy**. Třetí den tedy nebyl „Montvernier → Madeleine → Mollard", ale **Montvernier/Chaussy → Madeleine → Mollard**. To zároveň vysvětluje, jak se autor z Montvernieru dostal dál — přes Chaussy se sjíždí do doliny Maurienne u La Chambre, tedy přímo k nástupu na Madeleine.
 
-**Nové zjištění — Col Luitel.** Leží na silnici z Grenoblu přes Uriage na Chamrousse. Čtvrtý den tedy končil sledem **Luitel → Chamrousse**. Luitel je spíš rameno na výjezdu na Chamrousse než samostatný cíl, takže počítat jej jako pátý vrchol dne je trochu velkorysé — ale i tak: Télégraphe, Galibier, druhý výjezd na Alpe d'Huez a pak výjezd na Chamrousse přes Luitel dělají ze **dne 4 nejtěžší den celé sezóny.**
+**Nové zjištění — Col Luitel.** Leží na silnici z Grenoblu přes Uriage na Chamrousse. Čtvrtý den tedy končil sledem **Luitel → Chamrousse**. Luitel je spíš rameno na výjezdu na Chamrousse než samostatný cíl, takže počítat jej jako pátý vrchol dne je trochu velkorysé — ale i tak: Télégraphe, Galibier, druhý výjezd na Alpe d'Huez a pak výjezd na Chamrousse přes Luitel dělají ze **dne 4 nejtěžší den téhle výpravy.** (Nejtěžší den celé sezóny je sobota T-01: 200 km a 5 000 m.)
 
-**Nejasné zařazení — Col de Sarenne (1 999 m).** Sarenne je sedlo východně od Alpe d'Huez, kterým se přejíždí mezi Alpe d'Huez a Le Freney v dolině Oisans. Autor vyjel Alpe d'Huez dvakrát (D2 a D4), takže Sarenne padá na jeden z těch dvou dnů — **zhruba nastejno pravděpodobné:**
+**Zařazení Col de Sarenne — vyřešeno autorem.** Sarenne patří na **4. den**: z Galibieru zpět a přes Sarenne zezadu na Alpe d'Huez. Autor jím projel **pár hodin před tím, než tam dorazil peleton.**
 
-- **D4** je routovací logikou přirozenější: Galibier → Lautaret → sjezd k Le Freney → **výjezd Sarenne** → Alpe d'Huez → Bourg d'Oisans → Grenoble. Druhé Alpe d'Huez jinou silnicí, bez vracení se stejnou cestou.
-- **D2** je možné jako sjezd z Alpe d'Huez směrem k nástupu na Croix de Fer.
-
-**AUTHOR INPUT** (nebo se určí z časových značek fotografií).
-
-**Nejsou v CSV, ale v e-mailu ano:** La Bastille a Notre-Dame de Fourvière (městské výjezdy, ne průsmyky) a Les Michallons (výjezd 5. dne přerušený deštěm). Chybí i jakýkoli col ve Vercorsu z posledního dne — buď tam autor žádný sedlo nepřejel, nebo je to důsledek toho, že CSV obsahuje jen hlavní průsmyky. **AUTHOR INPUT, nízká priorita.**
+**Nejsou v CSV, ale v e-mailu ano:** La Bastille a Notre-Dame de Fourvière (městské výjezdy, ne průsmyky) a Les Michallons (výjezd 5. dne přerušený deštěm). Ve Vercorsu není v CSV žádné sedlo, protože autor jel přes **Gorges de la Bourne** — římsovou silnici, ne průsmyk. Vyřešeno.
 
 **Autorova vlastní čísla — hrubá plausibilita.** Autor uvádí 1 038 km a 18 000 m za šest dní. Sečteme-li jen samotná stoupání ze čtrnácti záznamů (bez spojovacích úseků a bez druhého výjezdu na Alpe d'Huez), vyjde řádově 13–14 000 m; 18 000 m za šest dní včetně přejezdů a dvou dnů okolo Grenoblu je tedy plausibilní. Není to ověření — na to by byla potřeba GPX data — ale číslo si s registrem neprotiřečí.
+
+---
+
+---
+
+## T-06 — Bavorsko (2 stoupání, mimo CSV)
+
+| Průsmyk | m | Země | Den | Zdroj výšky |
+|---|---|---|---|---|
+| **Kesselberg** | 858 | DE (Bavorsko) | D1 | EXT* |
+| **Fernpass** | 1 216 | AT (Tyrolsko) | D2 | EXT* |
+
+\* Výšky Kesselbergu a Fernpassu pocházely ze **starší verze `Bavaria.md`**, kterou autor přepsal plným e-mailem; v aktuálním archivu pro ně není autorský doklad, ale externě obě odpovídají. Vedeny proto jako `EXT`.
+
+**Nejnižší nálož celé sezóny** a zároveň její začátek. Kesselberg je první větší kopec roku; Fernpass s 1 216 m je **nejnižší maximum ze všech sedmi výprav** — o 1 614 metrů nižší než maximum poslední výpravy.
+
+Mimo tyto dva: Kochelsee, Eibsee, Plansee, Neuschwanstein, Starnberger See jsou zastávky, ne stoupání.
+
+**K dohledání:** vedla přes Fernpass římská **Via Claudia Augusta** (Reschen → Augsburg)? Pokud ano, patří to do kapitoly — sedí to k tématu silnic jako staveb. Zatím **NEOVĚŘENO** a v textu není.
+
+---
+
+## T-07 — Tyrolsko (2 stoupání, mimo CSV)
+
+| Stoupání | m | Země | Den | Zdroj výšky |
+|---|---|---|---|---|
+| **Hahntennjoch** | 1 894 | AT (Tyrolsko) | D1 | EXT (ověřeno) |
+| **Ötztaler Gletscherstraße** | **~2 830** (autorovo měření **2 930**) | AT (Tyrolsko) | D2 | EXT + AUTOR |
+
+### ⭐ Nejvyšší bod celé sezóny — a není to průsmyk
+
+**Ötztaler Gletscherstraße ze Söldenu k söldenským ledovcům kulminuje kolem 2 830 metrů** (zdroje uvádějí 2 829, 2 830 i 2 835 podle měřicího bodu) a je to **nejvýše položená asfaltová silnice v Alpách.** To je o 73 metrů výš než Stelvio.
+
+Není to ale průsmyk. Je to **slepá cesta** k jednomu konkrétnímu místu; za jejím koncem už žádný další asfalt nevede. Registr ji proto vede jako stoupání, ne jako průsmyk, a v přehledech je to potřeba rozlišovat:
+
+- **Nejvyšší průsmyk sezóny:** Passo dello Stelvio, 2 757 m (T-04)
+- **Nejvyšší bod sezóny:** Ötztaler Gletscherstraße, ~2 830 m (T-07)
+
+Na silnici je také **Rosi-Mittermaier-Tunnel**, ~1,8 km, **nejvýše položený silniční tunel v Evropě.** Rettenbachferner je dosažen v ~2 798 m; vrchol výjezdu k Tiefenbachferneru se uvádí ~2 671 m — silnice tedy kulminuje u tunelu a k samotnému Tiefenbachu pak mírně klesá.
+
+### ⚠️ Tři rozpory s autorovými poznámkami
+
+| Údaj | Autor (`Tyrol.md`) | Ověřeno |
+|---|---|---|
+| Výška silnice | **2 930 m** (měření na místě) | ~2 830 m (publikované) |
+| Superlativ | ✅ autor přijal verzi **„v Alpách"** | nejvýše položená **v Alpách**; v Evropě je vyšší Pico Veleta (ES), ~3 384 m |
+| Délka tunelu | ✅ autor potvrdil **~1,8 km** | ~1,8 km |
+
+Podle projektových pravidel má autorův účet přednost v tom, co zažil, ale **výšky a superlativy se ověřují.** V kapitole jsou zatím ověřené hodnoty a rozpor je otevřený jako otázka na autora — je dost možné, že jeho čísla pocházejí z cedule nebo z aplikace na místě, což by samo pro knihu bylo použitelné (motiv "cedule versus měření" už v knize máme u Timmelsjochu a Furky).
+
+### Hahntennjoch
+
+**1 894 m**, spojuje Lechtal s údolím Innu; celá silnice Imst — Elmen má ~29 km. Autor přijel od Memmingenu, tedy Lechtalem, a stoupal **z Elmenu**: ~14,7 km, průměr 6,4 %, úseky nad 12 %. (Z Imstu je to 14,1 km / 7,8 % s krátkými úseky až 19 %.) Za sedlem se sjíždí k Imstu a odtud se odbočuje do Pitztalu.
 
 ---
 
@@ -200,9 +255,9 @@ Ostatní výšky v CSV odpovídají běžně uváděným hodnotám v rámci pár
 ## Co registr celkově změnil
 
 1. **Osm průsmyků, které v žádném e-mailu nejsou** (Maloja, Forcola di Livigno, Foscagno, Sella di Razzo, Passo Tre Croci, Col du Chaussy, Col Luitel, Col de Sarenne). Znamená to, že e-maily trasy systematicky podhodnocují — autor psal o tom, co si pamatoval jako důležité, ne o tom, co skutečně přejel. Pro kapitoly je to zisk: chybějící úseky se dají popsat věcně, bez vymýšlení.
-2. **Dvě otevřené otázky se zavřely:** šest průsmyků v T-02 (= Tremola) a spojnice Lugano–Engadin (= Maloja). Třetí — čím byl „přejezd do Itálie" na D2 — je vysvětlená Forcolou di Livigno, ale zůstává INFERENCE, protože CSV neobsahuje dny ani trasy.
+2. **Dvě otevřené otázky se zavřely:** šest průsmyků v T-02 (= Tremola) a spojnice Lugano–Engadin (= Maloja). Třetí — čím byl „přejezd do Itálie" na D2 — **potvrdil autor: byla to Forcola di Livigno** a déšť spadl na sjezdu z ní.
 3. **Dvě dosud řídce vypadající etapy se ukázaly jako těžké:** T-04 den 2 (čtyři průsmyky nad 2 290 m, ne jeden) a T-03 den 2 (šest průsmyků, ne pět).
 4. **Jedna korekce mého odhadu:** nejvyšší bod Dolomit je Passo Sella, ne Pordoi (rozdíl 5 m).
 5. **Všechny výšky jsou teď AUTOR, ne EXT.** Faktografická kontrola výšek se v podstatě uzavřela.
-6. **Nové otázky:** kam patří Col de Sarenne (D2 nebo D4); přejel autor ve Vercorsu nějaké sedlo; jak dlouhé byly ve skutečnosti první a třetí den T-04.
+6. **Zbývá jen:** skutečná čísla prvního a třetího dne T-04, pokud se autor rozhodne dát do knihy GPX.
 7. **Co registr naopak nezměnil:** pořadí Sellarondy v e-mailu je správné a nepotřebuje opravu.

@@ -1,8 +1,8 @@
-# PROJECT DISCOVERY REPORT — v2.0
+# PROJECT DISCOVERY REPORT — v6.0
 
 Projekt: osobní cestopisná kniha (sólo silniční cyklistika v Alpách)
-Datum zprávy: 27. 8. 2026
-Fáze: **discovery** — bez psaní kapitol
+Datum zprávy: v6.0 — 9. 9. 2026
+Fáze: **sedm kapitol v draftu**, kniha zatím bez konce (autor chystá ještě jednu výpravu)
 Konvence uvozovek: „…" = doslovná citace autora; '…' = editorská poznámka nebo pracovní termín.
 Související soubory: `01_TRIP_DATABASE.md`, `02_CHRONOLOGY.md`, `03_PASSES.md`
 
@@ -33,16 +33,44 @@ Související soubory: `01_TRIP_DATABASE.md`, `02_CHRONOLOGY.md`, `03_PASSES.md`
 > — Autor ponechal všechny vymyšlené pasáže v pilotní kapitole. Režim značení tedy funguje a pokračuje.
 >
 > **Změny ve v3.0 — napsány všechny kapitoly:**
-> — `KAPITOLA_01_Timmelsjoch.md` · `KAPITOLA_02_Sest_prusmyku.md` · `KAPITOLA_03_Stelvio_trikrat.md` (dříve 04) · `KAPITOLA_04_Galibier.md` · `KAPITOLA_05_Vercors.md` · `KAPITOLA_06_Dolomity.md`
+> — `KAPITOLA_02_Timmelsjoch.md` · `KAPITOLA_03_Sest_prusmyku.md` · `KAPITOLA_04_Stelvio_trikrat.md` (dříve 04) · `KAPITOLA_05_Francouzske_Alpy.md` · `KAPITOLA_06_Dolomity.md`
 > — Francouzská výprava rozdělena na dvě kapitoly (dny 1–4 a 5–6), jak navrhovala varianta C.
-> — ⚠️ **Dvourychlostní stav faktografie.** Kapitoly 1–3 stojí na dokončené rešerši. **Kapitoly 4–6 nikoli** — ověřování se u francouzských Alp a Dolomit nedokončilo. V těch třech kapitolách jsem použil jen údaje, kterými jsem si přiměřeně jistý, všechno ostatní vynechal, a v každém aparátu je seznam toho, co je nutné před tiskem ověřit. **Výjimka: údaje o evropském suchu v létě 2026 v kapitole 6 ověřené jsou** a nesou závěr celé knihy.
-> — Otevřené otázky na autora: 5 na kapitolu, celkem 25.
+> — ⚠️ **Dvourychlostní stav faktografie.** Kapitoly 1–3 stojí na dokončené rešerši. **Kapitoly 4–6 nikoli** — ověřování se u francouzských Alp a Dolomit nedokončilo. V těch dvou kapitolách jsem použil jen údaje, kterými jsem si přiměřeně jistý, všechno ostatní vynechal, a v každém aparátu je seznam toho, co je nutné před tiskem ověřit. **Výjimka: údaje o evropském suchu v létě 2026 v dolomitské kapitole ověřené jsou.**
+> — Otevřené otázky na autora: 5 na kapitolu, celkem 25. **Ve v4.0 všechny zodpovězeny a zapracovány.**
+>
+> **Změny ve v4.0 — autor odpověděl na všech 25 otázek:**
+> — **Kniha má zatím pět kapitol, ne šest.** Francouzská výprava je na autorovo přání **jedna kapitola**. *(Ve v5.0 už je kapitol sedm.)*
+> — **Kniha ještě nemá konec.** Autor chystá **ještě jednu výpravu**. Dolomity tedy nejsou závěrečná kapitola a jejich konec byl přepsán tak, aby uzavíral kapitolu, ne knihu.
+> — **Všechny značené vymyšlené pasáže autor schválil.** Lomené uvozovky ve všech kapitolách zmizely; režim značení se zachovává pro kapitoly budoucí.
+> — **Zásadní korekce chronologie:** sobotní etapa T-01 měla **200 km a 5 000 m** — nejnáročnější jediný den celé sezóny. Argument „T-01 byl první, protože měl nejmenší denní nálož" tím padá. Viz `02_CHRONOLOGY.md` §2.
+> — **Uzavřeno:** základnou T-02 byl **Hospental** (poslední kontradikce archivu); Julier tam a zpět ze Silvaplany; **Sarenne patří na 4. den** T-05; T-03 datováno na **14.–16. 8. 2026**.
+> — **Nový materiál:** **Rifugio Forni** (T-04 d4); **Mendel jet až z Bolzana** s prvním výhledem na Dolomity (T-04 d5); ovce na Timmelsjochu; plachty na Rhônském ledovci jako autorovo pozorování; **Torrente Cellina a Lago di Barcis z poloviny prázdné** (T-03 d3).
+> — **Vyškrtnuto na pokyn autora:** odboj ve Vercorsu 1944; olympiáda v Cortině; delší reflexe o Tremole.
+>
+> **Změny ve v5.0 — dodány dvě nové výpravy (`Bavaria.md`, `Tyrol.md`):**
+> — **T-06 Bavorsko (květen 2026) je chronologicky první výprava sezóny** a stává se **kapitolou 1**. Osa tím dostala potvrzený začátek.
+> — **T-07 Tyrolsko (po Dolomitech) je zatím poslední** a stává se **kapitolou 7**.
+> — **Nejvyšší bod sezóny už není Stelvio.** Drží ho **Ötztaler Gletscherstraße, ~2 830 m** — nejvýše položená asfaltová silnice v Alpách. Stelvio zůstává nejvyšším *průsmykem*.
+> — **Sezóna má teď oblouk od 858 m po ~2 830 m:** začíná na Kesselbergu v květnu, končí (zatím) na nejvyšším alpském asfaltu.
+> — Nové souhrny: **7 výprav, 26 dní na kole, 48 pojmenovaných stoupání, 5 zemí.**
+> — **Kapitoly přečíslovány na 1–7.** `KAPITOLA_01_Bavorsko` · `02_Timmelsjoch` · `03_Sest_prusmyku` · `04_Stelvio_trikrat` · `05_Francouzske_Alpy` · `06_Dolomity` · `07_Tyrolsko`.
+> — ⚠️ **Tři rozpory v `Tyrol.md`** (výška ledovcové silnice, superlativ, délka tunelu) — viz `03_PASSES.md` a otázky v kapitole 7.
+> — Autor chystá **ještě jednu výpravu**; konec knihy tedy zůstává otevřený.
+>
+> **Změny ve v6.0 — autor odpověděl na otázky ke kapitolám 1 a 7:**
+> — **Sezóna má pevné hranice: 1. května – 30. srpna 2026.** T-06 = první květnový víkend (a první den byl v Bavorsku svátek, kroje na vesnicích); T-07 = poslední srpnový víkend.
+> — **T-06 má vzdálenosti:** 120 / 160 / 140 km, celkem ~420 km.
+> — Kesselberg autora **potěšil** (necítil chybějící formu) a u Neuschwansteinu byl **poprvé a vyšel až nahoru**.
+> — Na Hahntennjochu **neměl na výběr** — jel na čas do Sankt Leonhardu; tunely byly o pár stupňů teplejší než déšť venku.
+> — ✅ **Vyřešeno:** délka tunelu 1,8 km; superlativ „nejvýše v Alpách".
+> — ⚠️ **Zbývá jeden rozpor v celém projektu:** výška ledovcové silnice — autor 2 930 m, zdroje ~2 830 m. V kapitole jsou obě.
+> — Autor u obou nových kapitol **schválil vybrané označené pasáže**; lomené uvozovky zmizely. Kapitoly 1–7 jsou tím všechny v čistém průběžném textu.
 
 ---
 
 ## 1. Přehled archivu
 
-Složka `Cycling` obsahuje **pět zdrojových dokumentů, celkem 2 801 slov**, a od v2.0 navíc autorův datový soubor `alpine_passes_2026.csv` (44 průsmyků). Žádné fotografie, žádná GPS data, žádné itineráře, žádné poznámky z cesty.
+Složka `Cycling` obsahuje **sedm zdrojových dokumentů** a autorův datový soubor `alpine_passes_2026.csv` (44 průsmyků, pokrývá pět z nich). Žádné fotografie, žádná GPS data, žádné itineráře, žádné poznámky z cesty.
 
 | Soubor | Slov | Typ | Trip |
 |---|---|---|---|
@@ -51,12 +79,14 @@ Složka `Cycling` obsahuje **pět zdrojových dokumentů, celkem 2 801 slov**, a
 | `Bormio.md` | 456 | e-mail rodině | T-04 Švýcarsko + Itálie |
 | `Dolomites.md` | 745 | e-mail rodině | T-03 Dolomity |
 | `Grenoble.md` | 807 | e-mail rodině | T-05 Francie |
+| `Bavaria.md` | ~690 | e-mail otci a bratrovi | **T-06 Bavorsko** |
+| `Tyrol.md` | 636 | e-mail rodině | **T-07 Tyrolsko** |
 
-**Charakter materiálu.** Všech pět dokumentů je stejný žánr: retrospektivní shrnující e-mail rodině, napsaný po návratu, otevřený oslovením „Ahojte rodinove" (ve čtyřech případech bez diakritiky, v `Hospental.md` „rodinové") a zakončený odkazem na album Google Photos. Nejde o deník ani o poznámky z cesty. To má tři důsledky pro celý projekt:
+**Charakter materiálu.** Všech sedm dokumentů je stejný žánr: retrospektivní shrnující e-mail, napsaný po návratu. Pět z nich oslovuje „Ahojte rodinove", `Tyrol.md` „Ahoj rodinove" a `Bavaria.md` „Ahoj tati a brácho". **Pět z nich končí odkazem na album Google Photos; `Bavaria.md` a `Tyrol.md` odkaz nemají.** Nejde o deník ani o poznámky z cesty. To má tři důsledky pro celý projekt:
 
 1. **Materiál je konzistentní ve hlasu, ale plochý v čase.** Vše je vyprávěno zpětně a s odstupem, což znamená hodnocení („byl to náročný den, ale zároveň přesně ten typ cyklistického dne, kvůli kterému člověk do Dolomit jede") místo scén se konkrétním časem, místem a průběhem. Kniha bude potřebovat scény, které v archivu prakticky nejsou.
-2. **Materiál je systematicky pozitivní.** V každé výpravě všechno vyšlo. Rodinný e-mail je žánr, který nehlásí problémy. Skutečné potíže, pochybnosti, nuda, špatná jídla, špatné noclehy, chybná odbočení v archivu chybí — ne proto, že se nestaly, ale proto, že se do e-mailu rodině nepíší.
-3. **Nechybí souvislost, chybí detail.** Denní členění je u všech pěti výprav úplné a přehledné. To je nečekaně dobrá výchozí pozice: struktura kapitol je hotová, chybí zrno.
+2. **Materiál je systematicky pozitivní.** V každé výpravě všechno vyšlo (jediné výjimky: déšť ve Vercorsu a déšť na Hahntennjochu). Rodinný e-mail je žánr, který nehlásí problémy. Skutečné potíže, pochybnosti, nuda, špatná jídla, špatné noclehy, chybná odbočení v archivu chybí — ne proto, že se nestaly, ale proto, že se do e-mailu rodině nepíší.
+3. **Nechybí souvislost, chybí detail.** Denní členění je u všech sedmi výprav úplné a přehledné. To je nečekaně dobrá výchozí pozice: struktura kapitol je hotová, chybí zrno.
 
 **Co v archivu úplně chybí:** data, vzdálenosti a převýšení (kromě T-05), fotografie jako soubory, jídlo, ubytování jako zážitek, konkrétní lidé, jakýkoli dialog, náklady, mechanické problémy (kromě „3 píchlé duše" jako čísla), příprava a trénink, dojezdy vlakem/autobusem jako zážitek.
 
@@ -70,25 +100,32 @@ Plná verze v `01_TRIP_DATABASE.md`. Zkráceně:
 
 | ID | Trip | Dny | Země | Trasa | Klíčová stoupání | Km / m | Status |
 |---|---|---|---|---|---|---|---|
-| T-01 | Timmelsjoch | 3 | DE/AT/IT | Mnichov → Matrei am Brenner → Mnichov | Timmelsjoch 2 474, Jaufenpass 2 094 | UNKNOWN | Outline |
-| T-02 | Hospental / Andermatt | 3 | CH | Curych → Andermatt → Curych | Oberalp, Susten, Grimsel, **Furka 2 429**, Gotthard, Tremola | UNKNOWN | Outline |
-| T-03 | Dolomity | 3 | AT/IT | Spittal an der Drau → Udine | Zoncolan, *Razzo*, Ciampigotto, *Tre Croci*, Giau, Sellaronda (4, nejvýš **Sella 2 244**), Duran | UNKNOWN | Outline |
-| T-04 | Bormio / Stelvio | 5 | CH/IT | Lugano → Bormio → Bolzano | *Maloja*, Julier, Albula, Bernina, *Forcola di Livigno*, *Foscagno*, **Stelvio 2 757 (3×)**, Umbrail, Mortirolo, Tonale, Gavia, Mendel | UNKNOWN | Outline |
-| T-05 | Francouzské Alpy | 6 | CH/FR | Ženeva → Grenoble/Valmeinier → Lyon | Mont du Chat, Alpe d'Huez 2×, *Sarenne*, Croix de Fer, Glandon, Montvernier/*Chaussy*, Madeleine, Mollard, Télégraphe, **Galibier 2 642**, *Luitel*, Chamrousse | **1 038 km / 18 000 m** | Outline |
+| T-01 | Timmelsjoch | 3 | DE/AT/IT | Mnichov → Matrei am Brenner → Mnichov | Timmelsjoch 2 474, Jaufenpass 2 094 | **so: 200 km / 5 000 m** | Draft 2 |
+| T-02 | Hospental | 3 | CH | Curych → **Hospental** → Curych | Oberalp, Susten, Grimsel, **Furka 2 429**, Gotthard, Tremola | UNKNOWN | Draft 2 |
+| T-03 | Dolomity | 3 | AT/IT | Spittal an der Drau → Udine | Zoncolan, *Razzo*, Ciampigotto, *Tre Croci*, Giau, Sellaronda (4, nejvýš **Sella 2 244**), Duran | UNKNOWN | Draft 2 |
+| T-04 | Bormio / Stelvio | 5 | CH/IT | Lugano → Bormio → Bolzano | *Maloja*, Julier, Albula, Bernina, *Forcola di Livigno*, *Foscagno*, **Stelvio 2 757 (3×)**, Umbrail, Mortirolo, Tonale, Gavia, Mendel, *Rifugio Forni* | UNKNOWN | Draft 5 |
+| T-05 | Francouzské Alpy | 6 | CH/FR | Ženeva → Grenoble/Valmeinier → Lyon | Mont du Chat, Alpe d'Huez 2×, *Sarenne*, Croix de Fer, Glandon, Montvernier/*Chaussy*, Madeleine, Mollard, Télégraphe, **Galibier 2 642**, *Luitel*, Chamrousse | **1 038 km / 18 000 m** | Draft 2 |
 
-*Kurzívou* průsmyky, které jsou v autorově CSV, ale v žádném e-mailu nejsou.
+| **T-06** | **Bavorsko** | 3 | DE/AT | Mnichov → Garmisch-Partenkirchen → Mnichov | Kesselberg 858, Fernpass 1 216 | **~420 km** | Draft 2 |
+| **T-07** | **Tyrolsko** | 3 | DE/AT | Memmingen → Sankt Leonhard → Innsbruck → Mnichov | Hahntennjoch 1 894, **Ötztaler Gletscherstraße ~2 830** | D1 ~100 km před průsmykem | Draft 2 |
 
-Celkem: **20 dní na kole, 5 zemí, 44 průsmyků, nejvyšší bod Stelvio 2 757 m** — všechno v jediné sezóně 2026.
+*Kurzívou* průsmyky, které jsou v autorově CSV, ale v žádném e-mailu nejsou. T-06 a T-07 v CSV nejsou vůbec.
+
+Celkem: **26 dní na kole, 5 zemí, 48 pojmenovaných stoupání** — všechno v jediné sezóně 2026.
+
+**Nejvyšší průsmyk:** Stelvio 2 757 m (T-04). **Nejvyšší bod:** Ötztaler Gletscherstraße ~2 830 m (T-07) — ale to není průsmyk, je to slepá silnice na ledovec.
 
 | Trip | Průsmyků | Nejvyšší bod | Nad 2 000 m |
 |---|---|---|---|
 | T-01 Timmelsjoch | 2 | Timmelsjoch 2 474 | 2 |
-| T-02 Andermatt | 6 | Furka 2 429 | 6 |
+| T-02 Hospental | 6 | Furka 2 429 | 6 |
 | T-03 Dolomity | 10 | Passo Sella 2 244 | 4 |
 | T-04 Bormio | 12 | **Stelvio 2 757** | 8 |
 | T-05 Francie | 14 | Galibier 2 642 | 2 |
+| T-06 Bavorsko | 2 | Fernpass 1 216 | 0 |
+| T-07 Tyrolsko | 2 | **Ötztaler Gletscherstraße ~2 830** | 1 |
 
-Čtyři průsmyky nad 2 500 m: Stelvio 2 757, Galibier 2 642, Gavia 2 621, Umbrail 2 501 — tři ze čtyř na jedné výpravě (T-04). Dvacet dva ze čtyřiačtyřiceti průsmyků je nad 2 000 m.
+Pět stoupání nad 2 500 m: **Ötztaler Gletscherstraße ~2 830**, Stelvio 2 757, Galibier 2 642, Gavia 2 621, Umbrail 2 501. Dvacet tři ze čtyřiceti osmi je nad 2 000 m.
 
 ---
 
@@ -96,22 +133,23 @@ Celkem: **20 dní na kole, 5 zemí, 44 průsmyků, nejvyšší bod Stelvio 2 757
 
 Detail v `02_CHRONOLOGY.md`. **Autor potvrdil, že všech pět výprav proběhlo v roce 2026.** To je nejdůležitější jediná informace, která do projektu zatím přišla, protože mění povahu knihy.
 
-Nejde o „roky cestování", ale o **jedno léto**: 20 dní na kole, 44 průsmyků, pět zemí, mezi jarem a srpnem 2026. Poslední výprava je stará nejvýš pár týdnů.
+Nejde o „roky cestování", ale o **jedno léto**: 26 dní na kole, 48 pojmenovaných stoupání, pět zemí, mezi 1. květnem a 30. srpnem 2026. Poslední doložená výprava je stará necelý měsíc.
 
 **Revidované pořadí.** Ve v1.0 jsem odvodil, že Francie je poslední výprava, protože je největší a autor ji retrospektivně srovnává s ostatními. **To padlo:** Francie proběhla během Tour de France, tedy v červenci, a Dolomity téměř jistě až v polovině srpna.
 
 ```
-V/VI    T-01  Timmelsjoch   víkend    2 průsmyky    max 2 474 m
-VI/VII  T-02  Andermatt     víkend    6 průsmyků    max 2 429 m
-VI/VII  T-04  Bormio        5 dní    12 průsmyků    max 2 757 m   ← nejvyšší bod sezóny
-VII     T-05  Francie       6 dní    14 průsmyků    max 2 642 m   ← 1 038 km / 18 000 m
-14.–16. VIII* T-03 Dolomity 3 dny    10 průsmyků    max 2 244 m   ← horko a sucho
-(* jediný termín odvozený, ne potvrzený)
+1.–3. V      T-06  Bavorsko      3 dny    2 stoupání   max 1 216 m   ← začátek sezóny
+konec V/VI   T-01  Timmelsjoch   3 dny    2 průsmyky   max 2 474 m   ← so: 200 km / 5 000 m
+VI/VII       T-02  Hospental     3 dny    6 průsmyků   max 2 429 m
+VI/VII       T-04  Bormio        5 dní   12 průsmyků   max 2 757 m   ← nejvyšší PRŮSMYK
+VII          T-05  Francie       6 dní   14 stoupání   max 2 642 m   ← 1 038 km / 18 000 m
+14.–16. VIII T-03  Dolomity      3 dny   10 průsmyků   max 2 244 m   ← horko a sucho
+28.–30. VIII T-07  Tyrolsko      3 dny    2 stoupání   max ~2 830 m  ← NEJVYŠŠÍ BOD
 ```
 
-**Datování T-03 na 14.–16. srpna 2026** je INFERENCE s vysokou spolehlivostí: druhý den připadl na italský státní svátek (AUTOR), text zdůrazňuje horko a sucho (tedy letní vrchol), Ferragosto 15. 8. 2026 je sobota, a pátek–nedělní vzorec autor prokazatelně používá u T-01 i T-02. Řetěz úvah včetně kontroly alternativ v `02_CHRONOLOGY.md` §3.
+**Datování T-03 na 14.–16. srpna 2026 autor potvrdil.** Odvození dopadlo správně: druhý den připadl na italský státní svátek (AUTOR), text zdůrazňuje horko a sucho (tedy letní vrchol), Ferragosto 15. 8. 2026 je sobota, a pátek–nedělní vzorec autor prokazatelně používá u T-01 i T-02. Řetěz úvah v `02_CHRONOLOGY.md` §3.
 
-**Sezóna má tři fáze:** rozjezd (dva víkendy, blízké destinace), vrchol (dvě velké výpravy zpět za sebou, 11 dní, 26 průsmyků, Tour de France) a dozvuk (Dolomity v srpnovém horku).
+**Sezóna má čtyři fáze** (detail v `02_CHRONOLOGY.md` §4): rozjezd (Bavorsko v květnu), zrychlení (Timmelsjoch, Švýcarsko, Bormio), vrchol (Francie v červenci) a dozvuk s pointou (Dolomity v horku, hned za nimi Tyrolsko na nejvyšším alpském asfaltu).
 
 **Zbývající neznámá v posloupnosti:** vzájemné pořadí T-04 a T-05. Obě padají do června–července a materiál je vůči sobě neumisťuje.
 
@@ -131,7 +169,7 @@ VII     T-05  Francie       6 dní    14 průsmyků    max 2 642 m   ← 1 038 k
 
 ### B — Kapitoly vyžadující doplnění
 
-**T-02 Hospental / Andermatt.** Struktura je bezvadná (tři dny, tři jasně odlišené charaktery hor, Tremola jako neobvyklý závěr) a Tremola je vizuálně i historicky nejzajímavější silnice v archivu. Ale text je jen 438 slov a je téměř bez konkrétních detailů. Potřebuje autorský vstup ke třem věcem: co bylo na Furce jiné než na Susten a Grimselu, jaké to bylo jet Tremolu na silničním kole a jaké to bylo mít Gotthard brzy ráno téměř bez lidí. Také je nutné dořešit rozpor v počtu průsmyků.
+**T-02 Hospental.** Struktura je bezvadná (tři dny, tři jasně odlišené charaktery hor, Tremola jako neobvyklý závěr) a Tremola je vizuálně i historicky nejzajímavější silnice v archivu. Ale text je jen 438 slov a je téměř bez konkrétních detailů. Potřebuje autorský vstup ke třem věcem: co bylo na Furce jiné než na Susten a Grimselu, jaké to bylo jet Tremolu na silničním kole a jaké to bylo mít Gotthard brzy ráno téměř bez lidí. Také je nutné dořešit rozpor v počtu průsmyků.
 
 ### C — Krátká interlude
 
@@ -210,11 +248,14 @@ Následující témata jsou v archivu prokazatelně přítomná, ne dosazená:
 ### Varianta A — Chronologická
 
 ```
-1. Timmelsjoch — impulzivní víkend            (T-01, V/VI)
-2. Šest průsmyků za tři dny                   (T-02, VI/VII)
-3. Stelvio třikrát                            (T-04, VI/VII)
-4. Galibier v očekávání Tour                  (T-05, VII)
-5. Dolomity v suchém srpnu                    (T-03, 14.–16. VIII — odvozeno)
+1. První výlet sezóny                         (T-06, V)
+2. Timmelsjoch — impulzivní víkend            (T-01, konec V/VI)
+3. Šest průsmyků za tři dny                   (T-02, VI/VII)
+4. Stelvio třikrát                            (T-04, VI/VII)
+5. Francouzské Alpy                           (T-05, VII)
+6. Dolomity v suchém srpnu                    (T-03, 14.–16. VIII)
+7. Silnice, která končí na ledovci            (T-07, konec VIII)
+[8. — chystaná výprava]
 Doslov — proč na kole
 ```
 
@@ -222,7 +263,7 @@ Doslov — proč na kole
 
 **Slabiny:** chybí měsíce čtyř výprav a pořadí T-04/T-05. Tři prostřední kapitoly mají podobný tvar (přijet, jet průsmyky, odjet) a chronologické řazení to zvýrazní.
 
-**Zásadní změna proti v1.0:** kniha už nekončí Francií, ale Dolomity. To je paradoxně lepší — sezóna nekončí největším výkonem, ale nejsilnějším pozorováním (vyschlé řeky, nízká jezera, srpnové horko). Viz §9.
+**Zásadní změna proti v1.0:** poslední z doložených výprav nejsou Francie, ale Dolomity. To je paradoxně lepší — sezóna nekončí největším výkonem, ale nejsilnějším pozorováním (vyschlé řeky, nízká jezera, srpnové horko). Viz §9.
 
 ### Varianta B — Tematická / geografická
 
@@ -242,25 +283,30 @@ Doslov — proč na kole
 Chronologické řazení kapitol, ale s **explicitní tematickou vrstvou** nesenou třemi krátkými nečíslovanými vsuvkami mezi kapitolami. Vsuvky vytahují témata, která by v jednotlivých kapitolách zmizela:
 
 ```
-Předmluva — jedno léto, dvacet dní, čtyřicet čtyři průsmyků
+Předmluva — jedno léto, dvacet šest dní, čtyřicet osm stoupání
 
-1. Timmelsjoch                                (T-01, V/VI)
+1. První výlet sezóny                         (T-06, V)
+2. Timmelsjoch                                (T-01, konec V/VI)
    ↳ Vsuvka: Únikové pruhy — o silnicích jako stavbách
-2. Šest průsmyků za tři dny                   (T-02, VI/VII)
+3. Šest průsmyků za tři dny                   (T-02, VI/VII)
    ↳ Vsuvka: Tremola — cesta, po které se jezdilo dřív
-3. Stelvio třikrát                            (T-04, VI/VII)
+4. Stelvio třikrát                            (T-04, VI/VII)
    ↳ Vsuvka: Sám — o tom, proč sólo
-4. Galibier v očekávání Tour                  (T-05, dny 1–4, VII)
-5. Vercors, druhý pokus                       (T-05, dny 5–6, VII)
-6. Dolomity v suchém srpnu                    (T-03, 14.–16. VIII — odvozeno)
+5. Francouzské Alpy                           (T-05, VII) — jedna kapitola dle přání autora
+6. Dolomity v suchém srpnu                    (T-03, 14.–16. VIII)
+7. Silnice, která končí na ledovci            (T-07, konec VIII)
+
+[Místo pro chystanou osmou výpravu]
+
+(Kniha zatím nemá konec — autor chystá ještě jednu výpravu.)
 
 Doslov — až na kole si člověk uvědomí, jak velké to je
-Přehled: 20 dní, 5 zemí, 44 průsmyků, nejvýš Stelvio 2 757 m
+Přehled: 26 dní, 5 zemí, 48 stoupání, nejvýš ledovcová silnice ~2 830 m
 ```
 
 **Proč doporučuji C:** zachová oblouk varianty A, dostane do knihy témata varianty B, a hlavně — vsuvky jsou krátké texty, které lze napsat z existujícího materiálu plus externí faktografie **bez potřeby autorského vstupu.** To dovoluje na knize pracovat, i když nebudou hned zodpovězeny všechny otázky. Rozdělení T-05 na dvě kapitoly řeší jeho nepoměrnou délku.
 
-**Nová výhoda po potvrzení roku:** Dolomity jako závěrečná kapitola dávají knize konec, který nevymýšlíme — sezóna doopravdy skončila v srpnovém horku u vyschlých řek a sjezdem z hor do naprosté nížiny u Udine. Poslední větou knihy může být pozorování o suchu, ne shrnutí výkonu. Vsuvka „Tremola" se navíc posunula, protože Tremolu autor sám vede jako samostatný průsmyk (viz `03_PASSES.md`) — to jí dává faktickou oporu, nejen editorský nápad.
+**Nová výhoda po potvrzení roku:** Tyrolsko jako poslední z doložených kapitol uzavírají tuhle část knihy, kterou nevymýšlíme — sezóna doopravdy skončila v srpnovém horku u vyschlých řek a sjezdem z hor do naprosté nížiny u Udine. Kapitolu uzavírá pozorování o suchu, ne shrnutí výkonu. Závěr celé knihy zatím není rozhodnutý — autor chystá ještě jednu výpravu. Vsuvka „Tremola" se navíc posunula, protože Tremolu autor sám vede jako samostatný průsmyk (viz `03_PASSES.md`) — to jí dává faktickou oporu, nejen editorský nápad.
 
 ---
 
@@ -269,15 +315,14 @@ Přehled: 20 dní, 5 zemí, 44 průsmyků, nejvýš Stelvio 2 757 m
 | # | Pracovní název | Trip | Premisa (jedna věta) | Otevírací scéna | Konec | Status |
 |---|---|---|---|---|---|---|
 | — | Předmluva | — | Kniha není o kole; kolo je způsob, jak se dostat dovnitř krajiny. | — | — | Nezaloženo |
-| 1 | Timmelsjoch | T-01 | Ve středu večer bylo škoda sedět doma, v pátek vyjížděl z Mnichova. | Rozhodnutí ve středu, nebo prudký sjezd s únikovými pruhy | Sebevědomí, že dlouhé průsmyky jsou zvládnutelné | Outline |
+| 1 | Timmelsjoch | T-01 | Ve středu večer bylo škoda sedět doma, v pátek vyjížděl z Mnichova. | Rozhodnutí ve středu, nebo prudký sjezd s únikovými pruhy | Sebevědomí, že dlouhé průsmyky jsou zvládnutelné | Draft |
 | — | Vsuvka: Únikové pruhy | — | Silnice v horách jsou stavby, které někdo musel vymyslet. | — | — | Nezaloženo |
-| 2 | Šest průsmyků za tři dny | T-02 | Susten, Grimsel a Furka se vejdou do jednoho dne, a přece jsou to tři různé hory. | Zahřívací Oberalp jako signál, že jde o víc než přejezd | Lucern, jezero, historické centrum — kontrast po dvou dnech v průsmycích | Outline |
+| 2 | Šest průsmyků za tři dny | T-02 | Susten, Grimsel a Furka se vejdou do jednoho dne, a přece jsou to tři různé hory. | Zahřívací Oberalp jako signál, že jde o víc než přejezd | Lucern, jezero, historické centrum — kontrast po dvou dnech v průsmycích | Draft |
 | — | Vsuvka: Tremola | — | Než postavili novou silnici, jezdilo se po žulových kostkách. | — | — | Nezaloženo |
-| 3 | Stelvio třikrát | T-04 | Ráno ledovce nad 2 700 m, večer vinice — a mezi tím jedna etapa. | Vrchol Stelvia a pohled dolů na serpentiny | Gavia a svoboda sólo cestování / „nenapadá mě jediná věc, kterou bych udělal jinak" | Outline |
+| 3 | Stelvio třikrát | T-04 | Ráno ledovce nad 2 700 m, večer vinice — a mezi tím jedna etapa. | Vrchol Stelvia a pohled dolů na serpentiny | Gavia a svoboda sólo cestování / „nenapadá mě jediná věc, kterou bych udělal jinak" | Draft |
 | — | Vsuvka: Sám | — | Sólo není o osamělosti, je o tom, že se člověk nemusí s nikým dohadovat. | — | — | Nezaloženo |
-| 4 | Galibier v očekávání Tour | T-05 d1–4 | Vyjet legendární kopec den, kdy se na něj scházejí desetitisíce lidí, je jiný sport. | Karavana Tour v Chambéry — atmosféra, kterou zná hlavně z televize | Nejtěžší den sezóny: Télégraphe, Galibier, druhé Alpe d'Huez, Luitel, Chamrousse — „spíš otázka cti než rozumu" | Outline |
-| 5 | Vercors, druhý pokus | T-05 d5–6 | Jediný den, který nevyšel — a den, který to napravil. | Déšť, který postupně zesílí, až nemá smysl pokračovat | Fourvière nad Lyonem jako poslední kopec před autobusem | Outline |
-| 6 | Dolomity v suchém srpnu | T-03 | Konec sezóny: hory, které si člověk pamatuje jako zelené a vodnaté, byly vyprahlé. | Italský svátek, plná parkoviště, davy mířících do hor | Sjezd z hor do naprosté nížiny u Udine — a poznámka o suchu jako poslední větě knihy | Outline |
+| 4 | Francouzské Alpy | T-05 (celá) | Vyjet legendární kopec den, kdy se na něj scházejí desetitisíce lidí, je jiný sport. | Karavana Tour v Chambéry — atmosféra, kterou zná hlavně z televize | Nejtěžší den výpravy: Télégraphe, Galibier, Sarenne, druhé Alpe d'Huez, Luitel, Chamrousse — „spíš otázka cti než rozumu" | Draft 2 |
+| 5 | Dolomity v suchém srpnu | T-03 | Konec sezóny: hory, které si člověk pamatuje jako zelené a vodnaté, byly vyprahlé. | Italský svátek, plná parkoviště, davy mířících do hor | Sjezd z hor do naprosté nížiny u Udine — a poznámka o suchu jako uzavření kapitoly | Draft |
 | — | Doslov | — | Až na kole si člověk uvědomí, jak velké ty hory jsou. | — | — | Nezaloženo |
 
 ---
@@ -294,7 +339,7 @@ Přehled: 20 dní, 5 zemí, 44 průsmyků, nejvýš Stelvio 2 757 m
 | T-04 | `photos.app.goo.gl/f1dh11QwzMPyEovZ6` |
 | T-05 | `photos.app.goo.gl/tZ5KmmfD8MphLUkx8` |
 
-**Blokující problém.** K albům nemám přístup a fotografie z Google Photos nelze do projektu stáhnout automaticky. Bez lokálních souborů nelze číst EXIF (datum, GPS). Po dodání CSV a potvrzení roku už fotky **nejsou jediná cesta k datování** — chybí jen měsíce čtyř výprav — ale zůstávají jedinou cestou k vizuálnímu detailu, k zařazení Col de Sarenne a k tomu, na které silnici spadla přeháňka 2. dne T-04.
+**Blokující problém.** K albům nemám přístup a fotografie z Google Photos nelze do projektu stáhnout automaticky. Bez lokálních souborů nelze číst EXIF (datum, GPS). Po dodání CSV a potvrzení roku už fotky **nejsou jediná cesta k datování** — chybí jen měsíce čtyř výprav — ale zůstávají jedinou cestou k vizuálnímu detailu a k obrazové vrstvě kapitol.
 
 **Doporučený postup — nejvyšší priorita celého projektu:**
 
@@ -321,15 +366,15 @@ Tento krok odemkne datace, ověření tras, kontrolu pořadí průsmyků i vět�
 ### Stále k vyřešení — prioritně
 
 6. ✅ **VYŘEŠENO autorem.** Věta o vinicích u Bormia byla zkratka — vinice byly **na cestě na východ k Meranu** (5. den), a v nížinách byly obecně všude sady a vinice. Pointa „ráno ledovce, večer vinice" tím zůstává platná, jen se přesouvá na správný den. Faktograficky sedí: Vinschgau jsou jablka, vinice od Merana na jih.
-7. **T-02 — Andermatt vs. Hospental.** Text mluví o návratu do Andermattu, soubor se jmenuje `Hospental.md`. Obce jsou 3 km od sebe.
+7. ✅ **VYŘEŠENO autorem.** Základnou T-02 byl **Hospental**, kde si autor prohlédl i místní zříceninu. Poslední kontradikce archivu je tím uzavřena.
 8. **Pořadí T-04 a T-05.** Obě padají do června–července; materiál je vůči sobě neumisťuje.
-9. **Měsíce čtyř výprav.** T-03 je odvozeno (14.–16. 8.), u ostatních zbývá měsíc a víkend.
+9. **Měsíce čtyř výprav.** T-03 je potvrzeno (14.–16. 8. 2026), u ostatních zbývá měsíc a víkend.
 
 10. **Náročnost T-04 dnů 1 a 3.** Zrekonstruovaný první den vychází řádově na 200 km a přes 4 000 m; třetí den vyžaduje mezi rampami Stelvia spojku Santa Maria – Müstair – Mals – Prato. Obojí je možné, ale než se napíše, jak dlouhý ten den byl, chtěl bych skutečná čísla.
 
 ### Nové otázky, které CSV otevřelo
 
-11. **Col de Sarenne (1 999 m)** — jediná zbývající nejasnost tohoto typu. — padá na D2 nebo D4 výpravy T-05, protože Alpe d'Huez byl vyjet dvakrát. Nastejno pravděpodobné, s mírnou preferencí D4 (Galibier → Lautaret → Le Freney → Sarenne → Alpe d'Huez → Grenoble je routovací logikou přirozenější).
+11. ✅ **VYŘEŠENO autorem.** **Col de Sarenne patří na 4. den** T-05, na cestu z Galibieru zpět na Alpe d'Huez, a autor jím projel pár hodin před peletonem.
 12. ✅ **Přeháňka na T-04 den 2 — VYŘEŠENO.** Autor potvrdil, že přejezdem do Itálie byla Forcola di Livigno a déšť spadl na sjezdu z ní. V kapitole je to už normální text, ne editorská poznámka.
 13. **Vercors bez sedla.** Poslední den T-05 nemá v CSV žádný průsmyk. Buď autor žádné sedlo nepřejel, nebo je to důsledek toho, že CSV obsahuje jen hlavní průsmyky.
 14. **E-maily trasy systematicky podhodnocují.** Osm průsmyků, které autor přejel a nenapsal o nich. Dva dny, které v e-mailu vypadají řídce, byly ve skutečnosti těžké: T-04 den 2 (tři průsmyky nad 2 290 m, ne jeden) a T-03 den 2 (šest průsmyků, ne pět). Při psaní kapitol je nutné vycházet z CSV, ne z e-mailu.
@@ -348,21 +393,16 @@ Tento krok odemkne datace, ověření tras, kontrolu pořadí průsmyků i vět�
 
 ---
 
-## 12. AUTHOR INPUT NEEDED
+## 12. AUTHOR INPUT — vyřízeno
 
-Otázky 1 a 4 z v1.0 jsou vyřešené (rok potvrzen, šestý průsmyk = Tremola). Pět nových, seřazených podle toho, co odemknou.
+Všech 25 otázek ke kapitolám autor zodpověděl (7. 9. 2026) a odpovědi jsou zapracované do textů i do této zprávy. Souhrn dopadů je v changelogu v4.0 na začátku dokumentu.
 
-1. **Měsíce.** U kterých měsíců a víkendů proběhly Timmelsjoch, Andermatt, Bormio a Francie? A jelo se Bormio před Francií, nebo po ní? Rok už mám; chybí jen tohle, aby byla osa hotová. A ještě jedna kontrola: byla dolomitská výprava opravdu **14.–16. srpna** (svátek Ferragosto v sobotu)?
+**Co zbývá od autora:**
 
-2. **Bormio a vinice.** Píšeš, že jsi byl ráno mezi ledovci nad 2 700 m a večer „seděl s Bormiu obklopeném vinicemi". Bormio vinicemi obklopené není — bylo to Merano, nebo Bolzano, poslední den? Je to pointa, na které stojí celá kapitola, takže potřebuju vědět, které město to bylo a co si z toho večera pamatuješ.
-
-3. **Gavia.** Píšeš, že „právě tady jsem si asi nejvíc uvědomil, jakou svobodu člověku dává cestování na kole o samotě". Byl to konkrétní moment — zastavení, výhled, ticho, prázdná silnice — nebo postupný pocit během celého stoupání? Emocionální vrchol nejsilnější kapitoly a nejkonkrétnější místo v archivu, kde říkáš, co pro tebe sólo znamená.
-
-4. **Osm nenapsaných průsmyků.** V CSV je osm sedel, o kterých v e-mailech není ani slovo: Maloja, Forcola di Livigno, Foscagno, Sella di Razzo, Passo Tre Croci, Col du Chaussy, Col Luitel, Col de Sarenne. Zajímá mě dvojí. Za prvé prakticky: patří **Sarenne** ke druhému, nebo ke čtvrtému dni ve Francii? Za druhé podstatněji: **byly to pro tebe jen spojovací kopce, nebo si na některý z nich pamatuješ něco, co se do e-mailu nevešlo?** Zvlášť u Forcoly di Livigno, protože právě tam tě podle všeho zastihl ten déšť.
-
-5. **Švýcarský víkend.** Nejlepší struktura, nejméně detailu (438 slov na šest průsmyků). Tři věci: čím se Furka lišila od Sustenu a Grimselu, že tě bavila „asi nejvíc"? Jak to bylo jet Tremolu na silničním kole? A jaké to bylo, když na Gotthardu brzy ráno „skoro nikdo nebyl"?
-
-**Plus jedna technická prosba, ne otázka:** export pěti Google Photos albumů do `Cycling/photos/T-01` … `T-05` (Google Takeout, originální kvalita, aby zůstala metadata), a jestli existují, i GPX/Strava/Garmin záznamy. Doplní vzdálenosti a převýšení čtyř výprav a většinu vizuálního detailu.
+1. **Data výprav** — dodá později; rozhodne se i, jestli chce do knihy dávat GPX.
+2. **Fotoarchiv** — export pěti albumů do `Cycling/photos/T-0X/`; autor má navíc výškový profil sobotní etapy T-01 a fotografii plachet na Rhônském ledovci.
+3. **Materiál ke aspoň dvěma dalším výpravám**, které chystá.
+4. **Vzájemné pořadí T-04 a T-05** — jediná zbývající neznámá v posloupnosti.
 
 ---
 
@@ -370,9 +410,9 @@ Otázky 1 a 4 z v1.0 jsou vyřešené (rok potvrzen, šestý průsmyk = Tremola)
 
 | # | Krok | Kdo | Blokuje |
 |---|---|---|---|
-| 1 | Odpovědi na 5 otázek v §12 | autor | kapitoly 3 a 6 |
-| 2 | Export fotoalb do `Cycling/photos/T-0X/` + případné GPX | autor | fotokurátorství, vzdálenosti, zařazení Sarenne |
-| 3 | Potvrzení struktury (doporučeno varianta C, Dolomity jako závěr) | autor | číslování kapitol |
+| 1 | ✅ Odpovědi na otázky ke kapitolám | autor | hotovo 7. 9. 2026 |
+| 2 | Export fotoalb do `Cycling/photos/T-0X/` + případné GPX | autor | fotokurátorství, obrazová vrstva |
+| 3 | Potvrzení struktury (doporučeno varianta C; závěr knihy otevřený — chybí aspoň dvě výpravy) | autor | číslování kapitol |
 | 4 | Pilotní kapitola: **„Stelvio třikrát" (T-04)** jako první plný draft | agent | — |
 | 5 | Vyhodnocení pilotní kapitoly autorem — hlas, délka, míra faktografie | autor | zbývající kapitoly |
 | 6 | Vsuvky (Únikové pruhy, Tremola, Sám) — lze psát paralelně bez autorského vstupu | agent | — |
@@ -385,5 +425,5 @@ Otázky 1 a 4 z v1.0 jsou vyřešené (rok potvrzen, šestý průsmyk = Tremola)
 
 ---
 
-**Status projektu: DISCOVERY v2.0 — faktografie průsmyků a rok uzavřeny, čeká se na §12 a fotoarchiv.**
-Žádná kapitola dosud nebyla psána. Zdrojové dokumenty nebyly nijak měněny.
+**Status projektu: v5.0 — sedm kapitol v draftu.**
+Zbývá: faktografická kontrola francouzské a dolomitské kapitoly, fotoarchiv, a materiál k aspoň dvěma dalším výpravám. Zdrojové dokumenty nebyly nijak měněny.
