@@ -36,7 +36,7 @@ První den jsem vyrazil z Mnichova směrem na jih k jezeru **Kochelsee**. Po zim
 
 Jakmile člověk opustí město, začne se všechno pomalu zvedat — nejdřív pole a menší kopce, potom lesy a nakonec se v dálce objeví první pořádné hory.
 
-To je na téhle konkrétní trase to podstatné a je to zároveň nejlepší možný způsob, jak sezónu začít: **tudy Alpy nezačínají hranou, ale rampou.** Loisašským údolím se terén zvedá skoro nepozorovaně a hory se objeví nejdřív jako obrys na obzoru, potom jako kulisa, a až nakonec jako stěna. O pár týdnů později jsem na tytéž hory přijel od Seefeldu, kde to funguje přesně naopak.
+To je na téhle konkrétní trase to podstatné a je to zároveň nejlepší možný způsob, jak sezónu začít: **tady Alpy nezačínají hranou, ale rampou.** Loisašským údolím se terén zvedá skoro nepozorovaně a hory se objeví nejdřív jako obrys na obzoru, potom jako kulisa, a až nakonec jako stěna. O pár týdnů později jsem na tytéž hory přijel od Seefeldu, kde to funguje přesně naopak.
 
 Kochelsee je krásné hlavně tím, jak je sevřené mezi horami. Silnice vede kolem jezera a za každou zatáčkou se mění výhled — chvíli voda, chvíli les a nad tím vším bavorské Alpy.
 
