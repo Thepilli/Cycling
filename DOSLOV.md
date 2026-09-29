@@ -7,7 +7,7 @@
 > **Editorská poznámka**
 >
 > Status: **Draft 1** · Zdroje: kapitoly 1–7, autorovo zadání („být vděčný, měl jsem štěstí, splnil jsem si všechny cyklistické sny, nemůžu se dočkat další sezóny, Alpy nabízejí nekonečně možností").
-> Všechny zážitky a čísla v doslovu pocházejí z kapitol knihy; nic nového není přidáno. Čísla sčítají **jen alpské výpravy (kapitoly 1–7)**, takže platí i po přidání kapitoly 8. Po ní stačí doplnit jednu větu o nížinách — místo je označené níže.
+> Všechny zážitky a čísla v doslovu pocházejí z kapitol knihy; nic nového není přidáno. Čísla sčítají **jen alpské výpravy (kapitoly 1–7)**, takže platí i po přidání kapitoly 8. Po kapitole 8 doplněn odstavec o nížinách (sekce Co jsem si odvezl). Závěrečné Sečteno a podtrženo počítá celou sezónu včetně kapitoly 8 (29 dní, 4 905 km, 80 897 m).
 > Jediný nový prvek je věta s poděkováním těm, kdo četli e-maily z cest (viz konec). Pokud ji autor nechce, lze ji škrtnout bez náhrady.
 
 ---
@@ -22,7 +22,9 @@ Mezi tím se vešlo sedm výprav.
 
 ## Sečteno
 
-Dvacet šest dní v sedle. 4 376 kilometrů. 79 914 výškových metrů — zhruba devětkrát výška Everestu. Jednapadesát průsmyků, některé z nich dvakrát a Stelvio třikrát.
+Dvacet šest dní v Alpách. 4 376 kilometrů. 79 914 výškových metrů — zhruba devětkrát výška Everestu. Jednapadesát průsmyků, některé z nich dvakrát a Stelvio třikrát.
+
+A na závěr tři dny po rovině: 529 kilometrů a 983 výškových metrů. Za tři dny méně výškových metrů, než jsem v Alpách leckdy nastoupal na jediném kopci.
 
 Když to takhle napíšu pod sebe, vypadá to jako plán. Nebyl. Byla to jedna výprava za druhou, a po každé z nich přišla další, protože ta předchozí vyšla. Všechny začaly stejně: noční autobus a ráno kolo na chodníku v cizím městě.
 
@@ -56,7 +58,7 @@ Nejvíc lidí jsem potkal na Galibieru, nejvíc ovcí na Timmelsjochu a nejmén�
 
 A kromě nohou jsem si odvezl ještě jednu věc: ani jedna z těch silnic nevznikla jen tak. Postavila je válka, elektrárny, armáda, obchod, jedna vesnice na terase nad údolím, lázeňští hosté z Merana. Jezdí se po nich, jako by tam byly odjakživa, a přitom každá je odpovědí na nějakou docela konkrétní otázku. Na kole se na ty otázky člověk začne ptát, protože má čas — nahoru se jede pomalu.
 
-<!-- Po kapitole 8 doplnit sem jednu dvě věty o nížinách Belgie a Nizozemska. -->
+A na úplný konec jsem si nechal tři dny, kdy jsem nevyjel jediný průsmyk. Z Cách přes Brusel, Gent, Bruggy a Antverpy až do Amsterdamu — kanály, gotické věže, přístavy a mrholení na rozloučenou. V Alpách jsem se celé léto díval nahoru. Na konci sezóny jsem se tři dny díval na vodu, která to všechno odnáší do moře. Byla to dobrá tečka.
 
 ---
 
@@ -74,4 +76,4 @@ V květnu zase vytáhnu kolo.
 
 ---
 
-**Sečteno a podtrženo: 26 dní, 4 376 km, 79 914 výškových metrů, 51 průsmyků a jeden spokojený, opálený a hlavně vděčný cyklista.**
+**Sečteno a podtrženo: 29 dní, 4 905 km, 80 897 výškových metrů, 51 průsmyků a jeden spokojený, opálený a hlavně vděčný cyklista.**

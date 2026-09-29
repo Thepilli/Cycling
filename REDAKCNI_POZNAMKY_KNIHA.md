@@ -1,6 +1,6 @@
 # Redakční poznámky ke knize — knižní průchod
 
-*Stav po redakci kapitol 1–7 a doslovu · září 2026 · kapitola 8 (Belgie a Nizozemsko) se připravuje*
+*Stav po redakci kapitol 1–8, předmluvy a doslovu · září 2026*
 
 ---
 
@@ -15,7 +15,9 @@
 | 5 | Francouzské Alpy | 6 | 983 | 21 541 m | 14 |
 | 6 | Dolomity | 3 | 561 | 11 502 m | 12 |
 | 7 | Tyrolsko | 3 | 554 | 7 671 m | 3 (vč. ledovcové silnice) |
-| **Σ** | **1–7** | **26** | **4 376** | **79 914 m** | **51** |
+| **Σ** | **Alpy 1–7** | **26** | **4 376** | **79 914 m** | **51** |
+| 8 | Benelux | 3 | 529 | 983 m | 0 |
+| **Σ** | **sezóna 1–8** | **29** | **4 905** | **80 897 m** | **51** |
 
 79 914 metrů je zhruba **devětkrát výška Everestu**. Souhrn je v **doslovu** (`DOSLOV.md`). Doslov počítá jen alpské výpravy 1–7, takže po kapitole 8 zůstává platný; doplní se jen věta o nížinách.
 
@@ -31,6 +33,7 @@ Kontrola tvrzení v textu vůči tabulce:
 - **Výšky, sklony, měřené hodnoty** číslicemi s mezerou (2 474 m). Kulatá vyprávěcí čísla mohou zůstat slovy („dvě stě kilometrů").
 - **Exonyma:** Mnichov, Curych, Ženeva, Lucern, **Svatý Mořic** (ne „Sv."), **Lucernské jezero**, **Ďáblův most**, **Adiže**.
 - **Jižní Tyrolsko** německy (Sterzing, Passeier, Vinschgau, Mals, Prad, Kaltern, Mendel); výjimky Bolzano a Merano.
+- **Benelux:** Cáchy, Brusel, Gent, Bruggy, Antverpy, Máza (Maas); Maastricht, Rotterdam, Amsterdam beze změny.
 - **Dva St. Leonhardy** vždy s údolím: *St. Leonhard in Passeier* (kap. 2), *Sankt Leonhard im Pitztal* (kap. 7).
 - **„surové"**, nikdy „syrové".
 - **Podtitul kapitoly:** *trasa · počet dní, počet průsmyků · km a výškové metry · datum* — sjednoceno ve všech sedmi kapitolách.
@@ -47,10 +50,11 @@ Kontrola tvrzení v textu vůči tabulce:
 - **Rozvodí a voda** — Oberalp (obě strany v Severním moři), Maloja, Bernina, Forcola; sucho 2026 a dvě přehrady v kapitole 6.
 - **Přehrady** — Grimsel (nová Spitallamm), Cancano, Vajont a Barcis (**obě navrhl Carlo Semenza** — doplněno do kapitoly 6), Sylvensteinspeicher.
 - **Římské cesty** — Via Claudia Augusta přes Fernpass (1), Via Raetia přes Brenner (2), Julier (4).
+- **Voda jako oblouk sezóny** — sucho a Barcis (6) ↔ Nizozemsko, kde je voda přesně tam, kde má být (8); pramen Rýna u Oberalpu (3) ↔ delta Rýna a Mázy v Rotterdamu (8).
 - **Sám vs. dav** — Gavia prázdná, Galibier plný kvůli závodu, Ferragosto plné kvůli horám.
 - **Odbočky navíc** — Fernpass/Fernsteinsee (1), Oberalp a Uetliberg (3), Rifugio Forni (4), Mont du Chat (5), Mendel (4). Kapitola 4 to pojmenovává („udělal jsem to, co dělám opakovaně").
 
-**Vazby mezi kapitolami (zkontrolováno, sedí):** Kochel „rampa" ↔ Seefeld „hrana" (1→2); Via Claudia (1↔2); Innsbruck podruhé (2→7); Achensee jen v kap. 2, kap. 7 jede jinudy; první pohled na Dolomity z Mendelu (4→6); Galibier jako dav kvůli závodu (5↔6); „dva týdny" mezi Dolomity a Tyrolskem (6→7); Kesselberg 858 m ↔ ledovcová silnice (1↔7).
+**Vazby mezi kapitolami (zkontrolováno, sedí):** Kochel „rampa" ↔ Seefeld „hrana" (1→2); Via Claudia (1↔2); Innsbruck podruhé (2→7); Achensee jen v kap. 2, kap. 7 jede jinudy; první pohled na Dolomity z Mendelu (4→6); Galibier jako dav kvůli závodu (5↔6); „dva týdny" mezi Dolomity a Tyrolskem (6→7); Kesselberg 858 m ↔ ledovcová silnice (1↔7); maják Oberalp ↔ Hoek van Holland (3↔8); pohled nahoru v Alpách ↔ pohled na vodu (7↔8); Barcis ↔ nizozemské hráze (6↔8).
 
 ---
 

@@ -21,12 +21,12 @@
 |:-:|---|---|---|
 | ☐ | Lidé v krojích na vesnici | *bylo plno lidí v tradičních krojích* | Jen pokud máte snímek, kde to nevadí fotografovaným |
 | ☐ | Kochelsee mezi horami | *Kochelsee je krásné hlavně tím, jak je sevřené mezi horami* | |
-| ☐ | Kesselberg | *Vyjel jsem ho s pocitem, že forma někde je* | První kopec sezóny |
-| ☐ | ★ Eibsee | *tak tyrkysovou barvu, že skoro vypadá uměle* | |
-| ☐ | Plansee | *hory padají přímo k vodě* | |
-| ☐ | Neuschwanstein z dálky | *z dálky vypadá skoro jako z pohádky* | |
-| ☐ | Fernsteinsee / zámek Fernstein | *Zato nad údolím se tyčil* | |
-| ☐ | Starnberger See s Alpami za zády | *za zády pořád vidí hory, ze kterých právě přijel* | |
+| ✅ | Kesselberg | *Vyjel jsem ho s pocitem, že forma někde je* | První kopec sezóny |
+| ✅ | ★ Eibsee | *tak tyrkysovou barvu, že skoro vypadá uměle* | |
+| ✅ | Plansee | *hory padají přímo k vodě* | |
+| ✅ | Neuschwanstein z dálky | *z dálky vypadá skoro jako z pohádky* | |
+| ✅ | Fernsteinsee / zámek Fernstein | *Zato nad údolím se tyčil* | |
+| ✅ | Starnberger See s Alpami za zády | *za zády pořád vidí hory, ze kterých právě přijel* | |
 
 ---
 
