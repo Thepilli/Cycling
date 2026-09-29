@@ -2,16 +2,6 @@
 
 *Mnichov — Garmisch-Partenkirchen — Mnichov · tři dny, dva průsmyky · 420 km a 3 630 výškových metrů · první květnový víkend 2026*
 
----
-
-> **Editorská poznámka**
->
-> Status: **Draft 3** · Zdroje: `Bavaria.md`, autorovy odpovědi, ověřená rešerše
-> Draft 2 → 3: jazyková redakce (shoda, nejasné formulace, číslovky podle konvence knihy); **doplněn svátek 1. května** (kalendářní a obecně známý fakt), **Via Claudia Augusta přes Fernpass** (ověřeno) a jedna věta o Ludvíkovi II. u Neuschwansteinu. Vložena zmínka o Walchensee jako čistě geografický přechod — silnice přes Kesselberg jinudy nevede. Vyškrtnuto nedoložené srovnání bavorské a tyrolské krajiny za hranicí.
-> Autor upřesnil Fernpass (**odbočka z Biberwieru na sedlo, dolů k Fernsteinsee a zpět**, motivace a Sigmundsburg), dodal **celkové převýšení 3 630 m** a potvrdil, že na všechny výpravy jezdí **nočním autobusem**. Kapitola je uzavřená.
-
----
-
 Po zimě a několika měsících bez pořádného výjezdu jsem v květnu konečně zase vytáhl kolo.
 
 Bylo to hned první květnový víkend. První květen vyšel na pátek, v Německu je to státní svátek a na bavorských vesnicích bylo plno lidí v tradičních krojích. Začínal jsem sezónu přesně ve chvíli, kdy tam slaví máj.
@@ -99,38 +89,3 @@ Garmisch-Partenkirchen se mi jako základna na podobné výlety začíná docela
 Takže první tři dny sezóny za mnou. Jako první výlet roku to vyšlo perfektně.
 
 A protože to vyšlo, jel jsem za pár týdnů znovu. A pak ještě. Nejvyšší bod tohohle víkendu ležel v 1 216 metrech na Fernpassu. Než léto skončilo, stál jsem na silnici, která končí skoro tři tisíce metrů vysoko.
-
----
----
-
-## Faktografický aparát
-
-**Potvrzeno autorem:** **Fernpass jako odbočka navíc: Biberwier → sedlo → Fernsteinsee → zpět**, na cestě od Neuschwansteinu, protože zbyl čas i síly a chtěl malou výzvu; **Sigmundsburg chtěl vidět, ale byla schovaná v lese**; **zámek se tyčil nad údolím**. **Celkem ~420 km a 3 630 m převýšení.** **Na všechny výpravy jezdí nočním autobusem.** Odstup mezi výpravami stačí uvádět přibližně („pár týdnů"). K Walchensee nemá vlastní pozorování. **První květnový víkend 2026**, v Bavorsku **svátek**, na vesnicích hodně lidí v tradičních krojích. Vzdálenosti **120 / 160 / 140 km** (autor dodává, že na nich nezáleží). Na Kesselbergu se **cítil dobře a natěšilo ho to na sezónu**. U Neuschwansteinu byl **poprvé a vyšel až nahoru**.
-
-**Z autorova e-mailu (`Bavaria.md`)** — celá trasa a členění dnů; „první pořádný cyklovýlet sezóny", květen; Kochelsee sevřené mezi horami; Kesselberg jako první větší kopec sezóny; Eibsee pod Zugspitze a jeho tyrkysová barva; Garmisch jako základna na dvě noci; Plansee jako větší a divočejší; Neuschwanstein a davy lidí; Fernpass jako netypický průsmyk; Starnberger See a výhled k Alpám; celý závěrečný souhrn včetně poznámky o Garmischi jako základně.
-
-**Výšky Kesselbergu (858 m) a Fernpassu (1 216 m)** — pocházejí ze starší verze `Bavaria.md`, v aktuálním archivu pro ně není autorský doklad; ověřeno externě. Fernpass 1 216 m potvrzuje i rešerše k Via Claudia Augusta.
-
-**✅ Ověřeno v Draftu 3:**
-
-- **1. května 2026 je pátek** (kalendář); v Německu státní svátek. Jméno svátku v textu záměrně neuvedeno, stačí datum.
-- **Via Claudia Augusta** — dokončena 46–47 n. l., spojovala Veronu s Augsburgem údolím Adiže přes Reschen, údolím Innu a přes Fernpass.
-- **Neuschwanstein** — stavba pro Ludvíka II. zahájena 1869 (obecně známý údaj).
-- **Fernpass jako sesuvná krajina se sedmi jezery** (chráněné území Natura 2000); Fernsteinsee leží na jižní straně sedla. Stoupání ze severu začíná v Biberwieru; silnice Reutte – Lermoos – Garmisch sedlo míjí.
-- **Sigmundsburg** — zřícenina na zalesněném ostrově ve Fernsteinsee, lesem zcela zakrytá; postavil ji vévoda Zikmund (der Münzreiche) v letech 1451–1463 pro svou ženu Eleonoru Skotskou. **Schloss Fernstein** na západním břehu, dnes hotel. Fernsteinsee ~934 m.
-- **Walchensee** — silnice přes Kesselberg (B11) vede z Kochelu k Walchensee; zmínka je čistě orientační, bez tvrzení o autorově zážitku.
-
-⚠️ **Neověřeno, v textu bez detailu:** Plansee na rakouské straně *(uvádí autor)*; Starnberger See jako velké jezero jižně od Mnichova *(uvádí autor)*.
-
-**Vyškrtnuto (Draft 3):** věta o tom, že bavorská strana hranice je upravená a osídlená a tyrolská prudší a prázdnější — v autorově materiálu není.
-
-**Poznámka k archivu.** Tento e-mail je jediný v archivu adresovaný „Ahoj tati a brácho" a podepsaný „Jirka". Ostatní oslovují „Ahojte rodinove" nebo „Ahoj rodinove" (`Tyrol.md`). Pro knihu bez důsledku.
-
----
-
-## Zbývá dořešit
-
-Nic blokujícího. Volitelně:
-
-1. **Fotografie** — k `Bavaria.md` není odkaz na album.
-2. **Seznam trasy s výškami** ze starší verze `Bavaria.md` — jen jako archivní doklad pro Kesselberg a Fernpass.
